@@ -3,3 +3,4 @@
 .secret
 venv
 *.pickle
+src

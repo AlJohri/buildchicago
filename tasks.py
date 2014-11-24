@@ -42,7 +42,7 @@ def get_usernames():
 def get_friends(username): # add self if bind=True
     session = Session()
     start_user = session.query(FacebookUser).filter_by(username=username).first()
-    
+
     start_user.data = "scraping"
     session.commit()
 
