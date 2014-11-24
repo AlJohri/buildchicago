@@ -4,38 +4,38 @@ from socialscraper.adapters.adapter_sqlalchemy import convert_result
 
 import os, datetime, pickle
 
-def save_user(result, session):
+def save_user(result, session, log=True):
     user = session.query(FacebookUser).filter_by(uid=result.uid).first()
     if not user:
         user = FacebookUser()
         convert_result(user, result)
         user.created_at = datetime.datetime.now()
         session.add(user)
-        print user.name, "created"
+        if log: print user.name, "created"
 
     session.commit()
 
     return user
 
-def save_group(result, session):
+def save_group(result, session, log=True):
     group = session.query(FacebookGroup).filter_by(group_id=result.group_id).first()
     if not group:
         group = FacebookGroup()
         convert_result(group, result)
         group.created_at = datetime.datetime.now()
         session.add(group)
-        print group.name, "created"
+        if log: print group.name, "created"
 
     return group
 
-def save_page(result, session):
+def save_page(result, session, log=True):
     page = session.query(FacebookPage).filter_by(page_id=result.page_id).first()
     if not page:
         page = FacebookPage()
         convert_result(page, result)
         page.created_at = datetime.datetime.now()
         session.add(page)
-        print page.name, "created"
+        if log: print page.name, "created"
 
     return page
 
