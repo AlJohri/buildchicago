@@ -1,0 +1,18 @@
+SQLAlchemy==0.9.0
+amqp==1.4.6
+anyjson==0.3.3
+beautifulsoup4==4.3.2
+billiard==3.3.0.19
+celery==3.1.7
+cssselect==0.9.1
+enum34==0.9.23
+facebook-sdk==0.4.0
+kombu==3.0.24
+lxml==3.3.5
+mechanize==0.2.5
+python-dateutil==2.2
+pytz==2014.9
+requests==2.3.0
+six==1.6.1
+-e git+https://github.com/AlJohri/socialscraper.git#egg=socialscraper-master
+wsgiref==0.1.2
