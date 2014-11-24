@@ -12,8 +12,8 @@ if not buildchicago:
 	session.add(buildchicago)
 	session.commit()
 
-for i, fan in enumerate(scraper.graph_search(None, "likers", buildchicago_id)):
+for i, fan in enumerate(scraper.graph_search(None, "likers", buildchicago.page_id)):
     user = save_user(fan, session)
-    buildchicago.users.append(fan)
+    buildchicago.users.append(user)
     session.commit()
     print user
