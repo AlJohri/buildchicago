@@ -52,3 +52,9 @@ def get_scraper():
         scraper.scraper_type = scraper_type
 
     return scraper
+
+def status_users(session):
+    print "todo", session.query(FacebookUser).filter(FacebookUser.data == "todo").count()
+    print "done", session.query(FacebookUser).filter(FacebookUser.data == "done").count()
+    print "skip", session.query(FacebookUser).filter(FacebookUser.data == "skip").count()
+    print "in progress", session.query(FacebookUser).filter(FacebookUser.data == "in progress").count()

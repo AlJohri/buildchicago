@@ -39,3 +39,4 @@ __all__ = ['Session', 'FacebookPage', 'FacebookUser', 'FacebookPagesUsers', 'Fac
 
 if __name__ == '__main__':
     session = Session()
+    from lib import status_users
