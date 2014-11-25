@@ -14,6 +14,15 @@ python -i models.py
 Scraping
 ```
 rq-dashboard
+
+# foreground (just open separate tabs)
+rqworker
+rqworker
+rqworker
+rqworker
+rqworker
+
+# background
 nohup rqworker -n worker1 &> worker1.log&
 nohup rqworker -n worker2 &> worker2.log&
 nohup rqworker -n worker3 &> worker3.log&
