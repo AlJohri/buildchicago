@@ -14,7 +14,7 @@ def get_friends(username):
 
 	fan = session.query(FacebookUser).filter_by(username=username).first()
 
-	print "Friends of %s" % fan.name
+	print "Friends of %s" % fan.username
 
 	fan.data = "in progress"
 	session.commit()
@@ -24,7 +24,7 @@ def get_friends(username):
 			print result
 			current_user = save_user(result, session, log=False)
 			fan.friend(current_user)
-			print "\t-", fan.name, "is friends with", current_user.name
+			print "\t-", fan.username, "is friends with", current_user.username
 			session.commit()
 	except requests.exceptions.ConnectionError as e:
 		fan.data = "error - %s" % e

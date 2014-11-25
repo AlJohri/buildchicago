@@ -13,5 +13,5 @@ todo_fans = session.query(FacebookUser).filter(FacebookUser.data=="todo").all()
 
 print "Grabbing friends of %s fans" % len(todo_fans)
 for i, fan in enumerate(todo_fans):
-	result = q.enqueue(get_friends, fan.username)
-	# result = q.enqueue_call(func=get_friends, args=(fan.username,), timeout=3600)
+	# result = q.enqueue(get_friends, fan.username) # default timeout is 180 seconds
+	result = q.enqueue_call(func=get_friends, args=(fan.username,), timeout=3600)

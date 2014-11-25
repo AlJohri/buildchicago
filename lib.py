@@ -54,10 +54,10 @@ def get_scraper():
     return scraper
 
 def status_users(session):
-    print "todo", session.query(FacebookUser).filter(FacebookUser.data == "todo").count()
-    print "done", session.query(FacebookUser).filter(FacebookUser.data == "done").count()
-    print "error", session.query(FacebookUser).filter(FacebookUser.data == "error").count()
-    print "skip", session.query(FacebookUser).filter(FacebookUser.data == "skip").count()
-    print "in progress", session.query(FacebookUser).filter(FacebookUser.data == "in progress").count()
+    print "todo", session.query(FacebookUser).filter(FacebookUser.data.like("todo%")).count()
+    print "done", session.query(FacebookUser).filter(FacebookUser.data.like("done%")).count()
+    print "error", session.query(FacebookUser).filter(FacebookUser.data.like("error%")).count()
+    print "skip", session.query(FacebookUser).filter(FacebookUser.data.like("skip%")).count()
+    print "in progress", session.query(FacebookUser).filter(FacebookUser.data.like("in progress%")).count()
 
     print [user.friends.count() for user in session.query(FacebookUser).filter(FacebookUser.data == "done").all()]
