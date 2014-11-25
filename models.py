@@ -10,7 +10,7 @@ from sqlalchemy.orm import aliased
 
 from pprint import pprint as pp
 
-LOCAL_DATABASE_URL = 'sqlite:///data.db'
+LOCAL_DATABASE_URL = 'postgresql:///buildchicago'
 
 engine = create_engine(LOCAL_DATABASE_URL, echo=False)
 Session = sessionmaker(bind=engine)
@@ -40,3 +40,5 @@ __all__ = ['Session', 'FacebookPage', 'FacebookUser', 'FacebookPagesUsers', 'Fac
 if __name__ == '__main__':
     session = Session()
     from lib import status_users
+    from functools import partial
+    status_users = partial(status_users, session)
