@@ -37,6 +37,7 @@ mkvirtualenv buildchicago
 pip install -r requirements.txt
 cp .secret.example .secret
 # fill in .secret file
+createdb buildchicago
 ```
 
 Backup Database
