@@ -3,12 +3,6 @@ Usage
 workon buildchicago
 source .secret
 python -i models.py
-
-# when facebook graph api key expires:
-# edit .secret file
-# source .secret
-# rm facebook_scraper.pickle
-# rerun command
 ```
 
 Scraping
@@ -38,6 +32,7 @@ pip install -r requirements.txt
 cp .secret.example .secret
 # fill in .secret file
 createdb buildchicago
+cat latest.dump.txt | psql buildchicago
 ```
 
 Backup Database
