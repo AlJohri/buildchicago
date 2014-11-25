@@ -60,4 +60,6 @@ def status_users(session):
     print "skip", session.query(FacebookUser).filter(FacebookUser.data.like("skip%")).count()
     print "in progress", session.query(FacebookUser).filter(FacebookUser.data.like("in progress%")).count()
 
-    print [user.friends.count() for user in session.query(FacebookUser).filter(FacebookUser.data == "done").all()]
+    friend_counts = [user.friends.count() for user in session.query(FacebookUser).filter(FacebookUser.data == "done").all()]
+    print friend_counts
+    # print map(lambda x: filter(lambda y: y > x * 100 and y < (x + 1) * 100, friend_counts), (1:15))

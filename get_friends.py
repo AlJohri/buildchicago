@@ -19,20 +19,19 @@ def get_friends(username):
 	fan.data = "in progress"
 	session.commit()
 
-	try:
-		for result in scraper.get_friends_nograph(fan.username):
-			print result
-			current_user = save_user(result, session, log=False)
-			fan.friend(current_user)
-			print "\t-", fan.username, "is friends with", current_user.username
-			session.commit()
-	except requests.exceptions.ConnectionError as e:
-		fan.data = "error - %s" % e
+	for result in scraper.get_friends_nograph(fan.username):
+		print result
+		current_user = save_user(result, session, log=False)
+		fan.friend(current_user)
+		print "\t-", fan.username, "is friends with", current_user.username
 		session.commit()
-		return "errored out with %s after downloading %d friends for %s" % (e, fan.friends.count(), fan.username)
 
 	fan.data = "done"
 	session.commit()
 	session.close()
 
 	return "downloaded %d friends for %s" % (fan.friends.count(), fan.username)
+
+# try:
+# 	# requests.get('asdfasdf')
+# except requests.exceptions.ConnectionError as e:
