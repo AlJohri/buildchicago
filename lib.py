@@ -45,7 +45,7 @@ def get_scraper():
         scraper = FacebookScraper(scraper_type=scraper_type)
         scraper.add_user(email=os.getenv('FACEBOOK_EMAIL'), password=os.getenv('FACEBOOK_PASSWORD'))
         scraper.login()
-        scraper.init_api()
+        # scraper.init_api()
         pickle.dump(scraper, open('facebook_scraper.pickle', 'wb'))
     else:
         scraper = pickle.load(open('facebook_scraper.pickle', 'rb'))
