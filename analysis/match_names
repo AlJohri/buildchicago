@@ -1,0 +1,26 @@
+#! /usr/bin/python
+import sys
+import csv
+
+infile_A = open(sys.argv[1])
+varname_A = sys.argv[2]
+infile_B = open(sys.argv[3])
+varname_B = sys.argv[4]
+
+dr_A = csv.DictReader(infile_A)
+dr_B = csv.DictReader(infile_B)
+
+outfile = sys.stdout
+
+names_A = []
+for row in dr_A:
+    name = row[varname_A]
+    name_dict_A.append(set(name.split(' ')))
+
+output = []
+for row in dr_B:
+    name_B = set(row[varname_B].split(' '))
+    for name_A in names_A:
+        common_words = name_A.intersection(name_B)
+        if common_words == name_B or len(common_words) > 2:
+            outfile.write('{0}, {1}'.format(name_A, name_B))
