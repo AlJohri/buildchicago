@@ -16,4 +16,3 @@ for i, fan in enumerate(scraper.graph_search(None, "likers", buildchicago.page_i
     user = save_user(fan, session, True)
     buildchicago.users.append(user)
     session.commit()
-    print user.name
