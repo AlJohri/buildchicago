@@ -12,6 +12,8 @@ def save_user(result, session, log=True):
         user.created_at = datetime.datetime.now()
         session.add(user)
         if log: print user.name, "created"
+    else:
+        if log: print user.name, "exists"
 
     session.commit()
 

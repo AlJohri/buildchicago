@@ -13,7 +13,7 @@ if not buildchicago:
 	session.commit()
 
 for i, fan in enumerate(scraper.graph_search(None, "likers", buildchicago.page_id)):
-    user = save_user(fan, session)
+    user = save_user(fan, session, True)
     buildchicago.users.append(user)
     session.commit()
     print user.name
