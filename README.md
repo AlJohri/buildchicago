@@ -44,3 +44,10 @@ Restore Database
 ```
 cat latest.dump.txt | psql buildchicago
 ```
+
+Queries
+```
+session.query(FacebookUser).filter(FacebookUser.pages.any(username="BUILDChicago")).count()
+session.query(FacebookUser).filter(FacebookUser.pages.any(username="BUILDChicago")).filter(FacebookUser.data==None).count()
+session.query(FacebookUser).filter(FacebookUser.pages.any(username="BUILDChicago")).filter(FacebookUser.data=="done").count()
+```
