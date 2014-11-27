@@ -1,5 +1,6 @@
+all: edgelist.csv matched_names.csv
 clean:
-	rm edgelist.csv users.csv donors.csv
+	rm edgelist.csv users.csv donors.csv matched_names.csv
 
 edgelist.csv:
 	psql -d buildchicago -c "SELECT uid1, uid2 FROM facebook_friends" -o 'edgelist.csv' -F ',' -A --pset footer
@@ -10,4 +11,6 @@ users.csv:
 donors.csv:
 	Rscript aggregate_donors.R
 
+# Note: This csv file only includes donors who matched to a UNIQUE facebook user
 matched_names.csv: donors.csv users.csv
+	./match_names donors.csv Name users.csv name > matched_names.csv

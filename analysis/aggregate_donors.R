@@ -2,7 +2,7 @@ require(data.table)
 require(lubridate)
 
 most.frequent.value <- function(x) names(which.max(table(x)))
-infiles <- c('donations_2013.csv', 'donations_2014.csv')
+infiles <- c('FY13 Gifts.csv', 'FY14 Gifts.csv')
 outfile <- 'donors.csv'
 
 raws <- lapply(infiles, fread)

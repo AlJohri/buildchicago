@@ -1,6 +1,12 @@
 #! /usr/bin/python
 import sys
 import csv
+import string
+
+def process_name(name):
+    exclude = set(string.punctuation)
+    strip_punct = ''.join(ch for ch in name if ch not in exclude)
+    return(set(strip_punct.lower().split(' ')))
 
 infile_A = open(sys.argv[1])
 varname_A = sys.argv[2]
@@ -15,12 +21,20 @@ outfile = sys.stdout
 names_A = []
 for row in dr_A:
     name = row[varname_A]
-    name_dict_A.append(set(name.split(' ')))
+    names_A.append((name, process_name(name)))
 
-output = []
+output = {}
 for row in dr_B:
-    name_B = set(row[varname_B].split(' '))
-    for name_A in names_A:
-        common_words = name_A.intersection(name_B)
-        if common_words == name_B or len(common_words) > 2:
-            outfile.write('{0}, {1}'.format(name_A, name_B))
+    name_B = row[varname_B]
+    name_set_B = process_name(name_B)
+    for name_A, name_set_A in names_A:
+        common_words = name_set_A.intersection(name_set_B)
+        if common_words == name_set_A or len(common_words) > 2:
+            if name_A in output:
+                del(output[name_A])
+                break
+            else:
+                output[name_A] = name_B
+
+for name_A, name_B in output.items():
+    outfile.write('{0}, {1}\n'.format(name_A, name_B))
