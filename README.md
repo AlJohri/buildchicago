@@ -45,9 +45,31 @@ Restore Database
 cat latest.dump.txt | psql buildchicago
 ```
 
+
 Queries
 ```
 session.query(FacebookUser).filter(FacebookUser.pages.any(username="BUILDChicago")).count()
 session.query(FacebookUser).filter(FacebookUser.pages.any(username="BUILDChicago")).filter(FacebookUser.data==None).count()
 session.query(FacebookUser).filter(FacebookUser.pages.any(username="BUILDChicago")).filter(FacebookUser.data=="done").count()
 ```
+
+Analysis Setup
+
+1. Add donations data: Save donations data as .csv files under analysis/
+
+2. Restore database:
+```
+createdb buildchicago
+cat latest.dump.txt | psql buildchicago
+```
+
+3. Generate .csv files:
+```
+cd analysis
+make all
+```
+
+Some analysis ideas that have yet to be implemented:
+- Run a community detection algorithm to identify clusters of fans and donors
+
+- Allocate each donor's donation amount evenly across each of its edges, then calculate a weighted betweenness centrality score for each node in the network. This will serve as a metric of which fans and/or donors are the most critical to bringing in donations.
