@@ -6,7 +6,8 @@ import string
 def process_name(name):
     exclude = set(string.punctuation)
     strip_punct = ''.join(ch for ch in name if ch not in exclude)
-    return(set(strip_punct.lower().split(' ')))
+    word_list = strip_punct.lower().split(' ')
+    return(set([word.strip() for word in word_list]))
 
 infile_A = open(sys.argv[1])
 varname_A = sys.argv[2]

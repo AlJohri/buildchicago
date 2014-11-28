@@ -1,47 +1,6 @@
-require(data.table)
-require(bit64)
-require(igraph)
-## Load
-## ===================================================================
-## Users
-## -------------------------------------------------------------------
-edgelist <- fread('edgelist.csv',
-                  colClasses = c('integer', 'integer'))
-# Dedupe edges
-edgelist[, `:=`(uid1 = pmax(uid1, uid2), uid2 = pmin(uid1, uid2))]
-edgelist <- edgelist[!duplicated(edgelist)]
-
-users <- fread('users.csv',
-               colClasses = c('character', 'character', 'integer'))
-
-user.graph <- graph.data.frame(edgelist, directed = FALSE)
-V(user.graph)$degree <- degree(user.graph)
-users$degree <- unname(degree(user.graph)[users[, uid]])
-
-
-## Donors
-## -------------------------------------------------------------------
-donors <- data.table(read.csv('donors.csv',
-                              strip.white = TRUE,
-                              stringsAsFactors = FALSE))
-
-matched.names <- data.table(read.csv('matched_names.csv',
-                                     header = FALSE,
-                                     strip.white = TRUE,
-                                     stringsAsFactors = FALSE))
-
-setnames(matched.names, c('V1','V2'), c('Name', 'fb.name'))
-
-donors <- merge(donors, matched.names, by = 'Name')
-setnames(donors, c('Name', 'fb.name'), c('build.name', 'name'))
-
-users <- merge(users, donors, by = 'name', all.x = TRUE)
-
-users[, donor := as.integer(!is.na(build.name))]
-setkey(users, uid)
-
 #' Analysis
 #' ===================================================================
+# Function to determine vertex color when plotting
 v.color <- function(donor, fan)
     ifelse(donor,
            ifelse(fan, 'green', 'orange'),
@@ -59,28 +18,51 @@ fan.graph <- induced.subgraph(user.graph, is.fan.or.donor)
 vertex.names <- V(fan.graph)$name
 is.donor <- as.logical(users[vertex.names, donor])
 is.fan <- as.logical(users[vertex.names, fan])
-name <- users[vertex.names, name]
+user.names <- users[vertex.names, name]
 betweenness <- betweenness(fan.graph)
 donation.amount <- users[vertex.names, total.donation.amount]
 
 # Show labels for top 20 nodes by betweenness centrality
 bet.cutoff <- betweenness[order(betweenness, decreasing = TRUE)][20]
 
+#' Precompute layout
+fan.layout <- layout.fruchterman.reingold(fan.graph)
+
+#' ### Plot colored by fan / donor status
 plot(fan.graph,
      vertex.size = ifelse(!is.donor, 1, log10(donation.amount)),
-     vertex.label = ifelse(betweenness > bet.cutoff, name, NA),
+     vertex.label = ifelse(betweenness > bet.cutoff, user.names, NA),
      vertex.label.cex = 0.5,
      vertex.label.family = "Arial",
      vertex.label.color = 'red',
      vertex.color = v.color(is.donor, is.fan),
      vertex.frame.color = ifelse(is.donor, 'black', 'blue'),
-     edge.width = 0.3)
+     edge.width = 0.3,
+     layout = fan.layout)
+
+#' ### Plot
+plot(fan.graph,
+     vertex.size = ifelse(!is.donor, 1, log10(donation.amount)),
+     vertex.label = ifelse(betweenness > bet.cutoff, user.names, NA),
+     vertex.label.cex = 0.5,
+     vertex.label.family = "Arial",
+     vertex.label.color = 'red',
+     vertex.color = v.color(is.donor, is.fan),
+     vertex.frame.color = ifelse(is.donor, 'black', 'blue'),
+     edge.width = 0.3,
+     layout = fan.layout)
 
 ## Who has the highest betweenness centrality?
-users[V(fan.graph)$name][betweenness >= bet.cutoff]
+print(users[V(fan.graph)$name][betweenness >= bet.cutoff,
+                               list(name, total.donation.amount)])
 
+#' Other Graphs
+#' ===================================================================
+#' Interesting but not immediately useful
+#'
 #' Donor Network
 #' -------------------------------------------------------------------
+#' Network of just donors
 donor.graph <- induced.subgraph(fan.graph, is.donor)
 plot(donor.graph,
      vertex.size = log10(donation.amount[is.donor]),
@@ -89,6 +71,7 @@ plot(donor.graph,
 
 #' Friends of donors
 #' -------------------------------------------------------------------
+#' Network of donors
 donors.friends <- graph.union(
     graph.neighborhood(fan.graph, 1, V(fan.graph)[is.donor]))
 
