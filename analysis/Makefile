@@ -1,4 +1,4 @@
-all: edgelist.csv matched_donors.csv matched_personnel.csv
+all: analysis.html
 clean:
 	rm edgelist.csv users.csv donors.csv matched_donors.csv matched_personnel.csv
 
@@ -17,3 +17,6 @@ matched_donors.csv: donors.csv users.csv
 
 matched_personnel.csv: users.csv
 	./match_names build_personnel.csv name users.csv name > matched_personnel.csv
+
+analysis.html: edgelist.csv users.csv donors.csv matched_donors.csv matched_personnell.csv
+	Rscript -e "require(knitr); require(pander); spin('analysis.R'); Pandoc.convert('analysis.md')"
