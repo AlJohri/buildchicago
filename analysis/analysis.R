@@ -114,8 +114,8 @@ legend(1000, 200,
        personnel.colors[, type],
        col = personnel.colors[, color])
 
-# Useful statistics
-# -------------------------------------------------------------------
+                                        # Useful statistics
+                                        # -------------------------------------------------------------------
 fan.edgelist <- get.edgelist(fan.graph)
 edge.table <- data.table(
     rbind(fan.edgelist, cbind(fan.edgelist[,2], fan.edgelist[, 1])))
@@ -135,16 +135,63 @@ friend.data <- edge.table[, list(
     friends.donation.amount.2013 = sum(donation.amount.2013),
     friends.donation.amount.2014 = sum(donation.amount.2014),
     friends.total.donation.amount = sum(total.donation.amount)),
-           list(uid = V1)]
+                          list(uid = V1)]
 . <- merged[vertex.names, `:=`(
     betweenness = betweenness,
     closeness = closeness(fan.graph),
     eigenvector = evcent(fan.graph)$vector)]
 
 build.network <- merge(friend.data, merged[vertex.names], by = 'uid')
+. <- build.network[is.na(role), role := 'None']
 
-# Write dataset to disk
+                                        # Write datasets to disk
 write.csv(build.network, file = 'build_network.csv', row.names = FALSE)
+
+attr.names <- c('label',
+                'betweenness',
+                'fan_status',
+                'donor_status',
+                'donation_metric',
+                'donation_amount',
+                'friends_donation_metric',
+                'freinds_donation_amount',
+                'build_affiliation')
+
+attr.vals <- as.list(
+    build.network[vertex.names, list(
+        name,
+        betweenness,
+        fan,
+        donor,
+        log10(total.donation.amount),
+        total.donation.amount,
+        log10(friends.total.donation.amount),
+        friends.total.donation.amount,
+        role)])
+
+Map(function(attr.name, attr.val)
+    fan.graph <<- set.vertex.attribute(
+        fan.graph, attr.name, value = attr.val),
+    attr.names, attr.vals)
+
+size.vars <- c('donation_metric',
+               'betweenness',
+               'freinds_donation_amount')
+
+color.vars <- c('fan_status', 'build_affiliation')
+
+outer(size.vars,
+      color.vars,
+      function(size.var, color.var){
+          tmp.graph <- set.vertex.attribute(
+              fan.graph, 'color', value =
+                 get.vertex.attribute(fan.graph, color.var))
+          set.vertex.attribute(
+              fan.graph, 'size', value =
+                  get.vertex.attribute(fan.graph, size.var))
+      })
+
+write.graph(fan.graph)
 
 #' Other Graphs
 #' ===================================================================
