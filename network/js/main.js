@@ -69,8 +69,8 @@ function initSigma(config) {
     	graphProps=config.sigma.graphProperties;
     else
     	graphProps={
-        minNodeSize: 1,
-        maxNodeSize: 7,
+        // minNodeSize: 1,
+        // maxNodeSize: 7,
         minEdgeSize: 0.2,
         maxEdgeSize: 0.5
     	};
@@ -453,7 +453,7 @@ function nodeNormal() {
         a.hidden = !1;
         a.attr.color = !1;
         a.attr.lineWidth = !1;
-        a.attr.size = !1
+        // a.attr.size = !1
     }), sigInst.draw(2, 2, 2, 2), sigInst.neighbors = {}, sigInst.active = !1, $GP.calculating = !1, window.location.hash = "")
 }
 

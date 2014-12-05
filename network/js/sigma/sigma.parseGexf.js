@@ -85,6 +85,7 @@ sigma.publicPrototype.parseGexf = function(gexfPath,callback) {
       if(sizeNodes.length>0){
         sizeNode = sizeNodes[0];
         size = parseFloat(sizeNode.getAttribute('value'));
+        console.log(size);
       }
 
       var positionNodes = nodeNode.getElementsByTagName('position');
