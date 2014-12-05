@@ -1,4 +1,4 @@
-Creator "igraph version @VERSION@ Thu Dec  4 23:20:36 2014"
+Creator "igraph version @VERSION@ Fri Dec  5 00:41:00 2014"
 Version 1
 graph
 [
@@ -14,7 +14,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.41912930774198 , 'pos': {'x': -176.423050328209, 'y': 390.106170521551}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -176.423050328209, 'y': 390.106170521551}}"
   ]
   node
   [
@@ -27,7 +27,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.30102999566398 , 'pos': {'x': -212.700845357032, 'y': 357.510143514899}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -212.700845357032, 'y': 357.510143514899}}"
   ]
   node
   [
@@ -40,7 +40,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -226.791442830387, 'y': 342.35859615587}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -226.791442830387, 'y': 342.35859615587}}"
   ]
   node
   [
@@ -53,7 +53,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.07243372596839 , 'pos': {'x': -261.18199055377, 'y': 381.840204793304}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -261.18199055377, 'y': 381.840204793304}}"
   ]
   node
   [
@@ -66,7 +66,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 88.0460616039511, 'y': 82.0035757858998}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 88.0460616039511, 'y': 82.0035757858998}}"
   ]
   node
   [
@@ -79,7 +79,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 132.492531101139, 'y': 148.736552469053}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 132.492531101139, 'y': 148.736552469053}}"
   ]
   node
   [
@@ -92,7 +92,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.90848501887865 , 'pos': {'x': 65.1106137290433, 'y': 144.489327620356}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 65.1106137290433, 'y': 144.489327620356}}"
   ]
   node
   [
@@ -105,7 +105,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -146.281260201508, 'y': 275.787931702062}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -146.281260201508, 'y': 275.787931702062}}"
   ]
   node
   [
@@ -118,7 +118,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -190.992708106343, 'y': 357.430466744778}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -190.992708106343, 'y': 357.430466744778}}"
   ]
   node
   [
@@ -131,7 +131,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 414.838134927205, 'y': -210.546018626037}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 414.838134927205, 'y': -210.546018626037}}"
   ]
   node
   [
@@ -144,7 +144,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -333.880970992368, 'y': -516.384153386651}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -333.880970992368, 'y': -516.384153386651}}"
   ]
   node
   [
@@ -157,7 +157,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 16.685930975425, 'y': 66.7677954777121}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 16.685930975425, 'y': 66.7677954777121}}"
   ]
   node
   [
@@ -170,7 +170,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -32.4807915124625, 'y': 57.2674359961887}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -32.4807915124625, 'y': 57.2674359961887}}"
   ]
   node
   [
@@ -183,7 +183,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 309.750393363889, 'y': 146.940190196931}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 309.750393363889, 'y': 146.940190196931}}"
   ]
   node
   [
@@ -196,7 +196,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 311.412136928193, 'y': 74.6556221726332}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 311.412136928193, 'y': 74.6556221726332}}"
   ]
   node
   [
@@ -209,7 +209,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 393.634029096863, 'y': 79.8063936844892}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 393.634029096863, 'y': 79.8063936844892}}"
   ]
   node
   [
@@ -222,7 +222,7 @@ graph
     DonationAmount 10
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 313.552781570963, 'y': 270.275757589183}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 313.552781570963, 'y': 270.275757589183}}"
   ]
   node
   [
@@ -235,7 +235,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.71667097556014 , 'pos': {'x': 395.313181003857, 'y': 139.241122594356}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 395.313181003857, 'y': 139.241122594356}}"
   ]
   node
   [
@@ -248,7 +248,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 386.258251256826, 'y': 202.682336081743}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 386.258251256826, 'y': 202.682336081743}}"
   ]
   node
   [
@@ -261,7 +261,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 320.033482183477, 'y': -19.5384786302264}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 320.033482183477, 'y': -19.5384786302264}}"
   ]
   node
   [
@@ -274,7 +274,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 364.697482005335, 'y': 110.2248778164}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 364.697482005335, 'y': 110.2248778164}}"
   ]
   node
   [
@@ -287,7 +287,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 158.708393666837, 'y': 278.50670094457}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 158.708393666837, 'y': 278.50670094457}}"
   ]
   node
   [
@@ -300,7 +300,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 412.814524340786, 'y': 129.826941587431}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 412.814524340786, 'y': 129.826941587431}}"
   ]
   node
   [
@@ -313,7 +313,7 @@ graph
     DonationAmount 65.55
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 187.909719940066, 'y': 7.25341911247581}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 187.909719940066, 'y': 7.25341911247581}}"
   ]
   node
   [
@@ -326,7 +326,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 279.244371983167, 'y': 330.798031368}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 279.244371983167, 'y': 330.798031368}}"
   ]
   node
   [
@@ -339,7 +339,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 325.362260501136, 'y': 389.35318453059}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 325.362260501136, 'y': 389.35318453059}}"
   ]
   node
   [
@@ -352,7 +352,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 273.526090385098, 'y': 269.59863327602}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 273.526090385098, 'y': 269.59863327602}}"
   ]
   node
   [
@@ -365,7 +365,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 263.999217619054, 'y': 324.415854412087}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 263.999217619054, 'y': 324.415854412087}}"
   ]
   node
   [
@@ -378,7 +378,7 @@ graph
     DonationAmount 2500
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 339.479780309739, 'y': 372.876101857663}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 339.479780309739, 'y': 372.876101857663}}"
   ]
   node
   [
@@ -391,7 +391,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -108.467063233688, 'y': -86.8481016313438}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -108.467063233688, 'y': -86.8481016313438}}"
   ]
   node
   [
@@ -404,7 +404,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -121.689921996283, 'y': 34.0747800149357}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -121.689921996283, 'y': 34.0747800149357}}"
   ]
   node
   [
@@ -417,7 +417,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 205.661397367006, 'y': -197.803680013038}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 205.661397367006, 'y': -197.803680013038}}"
   ]
   node
   [
@@ -430,7 +430,7 @@ graph
     DonationAmount 75
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 222.775827817979, 'y': -275.003211110533}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 222.775827817979, 'y': -275.003211110533}}"
   ]
   node
   [
@@ -443,7 +443,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 187.843284650683, 'y': -304.983297948773}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 187.843284650683, 'y': -304.983297948773}}"
   ]
   node
   [
@@ -456,7 +456,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 75.6767695609742, 'y': -73.2724113148356}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 75.6767695609742, 'y': -73.2724113148356}}"
   ]
   node
   [
@@ -469,7 +469,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 158.395292772412, 'y': -236.36780348633}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 158.395292772412, 'y': -236.36780348633}}"
   ]
   node
   [
@@ -482,7 +482,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 264.138378480042, 'y': -74.9725341132872}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 264.138378480042, 'y': -74.9725341132872}}"
   ]
   node
   [
@@ -495,7 +495,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 300.85383534756, 'y': -282.831436651181}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 300.85383534756, 'y': -282.831436651181}}"
   ]
   node
   [
@@ -508,7 +508,7 @@ graph
     DonationAmount 6020
     FriendsDonationAmount 416212.95
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 265.872200965895, 'y': -1.98745794558044}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 7 , 'position': {'x': 265.872200965895, 'y': -1.98745794558044}}"
   ]
   node
   [
@@ -521,7 +521,7 @@ graph
     DonationAmount 213.03
     FriendsDonationAmount 6020
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 370.016848584851, 'y': -16.1048318110476}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.03564786310649 , 'position': {'x': 370.016848584851, 'y': -16.1048318110476}}"
   ]
   node
   [
@@ -534,7 +534,7 @@ graph
     DonationAmount 170
     FriendsDonationAmount 7620
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 297.788911673048, 'y': 40.6759983366781}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.14494068903865 , 'position': {'x': 297.788911673048, 'y': 40.6759983366781}}"
   ]
   node
   [
@@ -547,7 +547,7 @@ graph
     DonationAmount 169594.92
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 260.198529056395, 'y': 31.0432216032443}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 260.198529056395, 'y': 31.0432216032443}}"
   ]
   node
   [
@@ -560,7 +560,7 @@ graph
     DonationAmount 181400
     FriendsDonationAmount NaN
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 209.473053294071, 'y': -51.1948047812029}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'position': {'x': 209.473053294071, 'y': -51.1948047812029}}"
   ]
   node
   [
@@ -573,7 +573,7 @@ graph
     DonationAmount 63000
     FriendsDonationAmount NaN
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 148.547046448071, 'y': 12.8600351785623}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'position': {'x': 148.547046448071, 'y': 12.8600351785623}}"
   ]
   node
   [
@@ -586,7 +586,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -120.159136210007, 'y': 119.347586273435}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -120.159136210007, 'y': 119.347586273435}}"
   ]
   node
   [
@@ -599,7 +599,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -45.0629703373013, 'y': -13.3587643119378}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -45.0629703373013, 'y': -13.3587643119378}}"
   ]
   node
   [
@@ -612,7 +612,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.98565097369095 , 'pos': {'x': -50.8654826341235, 'y': -6.33024025216396}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -50.8654826341235, 'y': -6.33024025216396}}"
   ]
   node
   [
@@ -625,7 +625,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.00281377922467 , 'pos': {'x': -56.2199628522718, 'y': 262.842824006664}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -56.2199628522718, 'y': 262.842824006664}}"
   ]
   node
   [
@@ -638,7 +638,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -7.7770918356084, 'y': 159.059453463564}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -7.7770918356084, 'y': 159.059453463564}}"
   ]
   node
   [
@@ -651,7 +651,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 336.239201116378, 'y': -178.626942721064}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 336.239201116378, 'y': -178.626942721064}}"
   ]
   node
   [
@@ -664,7 +664,7 @@ graph
     DonationAmount 1200
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 355.621264018768, 'y': -237.345074536876}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 355.621264018768, 'y': -237.345074536876}}"
   ]
   node
   [
@@ -677,7 +677,7 @@ graph
     DonationAmount 12000
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 435.331071506279, 'y': -217.254870990492}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 435.331071506279, 'y': -217.254870990492}}"
   ]
   node
   [
@@ -690,7 +690,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 247.468099949209, 'y': -161.305409382872}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 247.468099949209, 'y': -161.305409382872}}"
   ]
   node
   [
@@ -703,7 +703,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 301.918689201403, 'y': -229.368592613577}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 301.918689201403, 'y': -229.368592613577}}"
   ]
   node
   [
@@ -716,7 +716,7 @@ graph
     DonationAmount 442.78
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 297.551137614848, 'y': -198.034395808511}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 297.551137614848, 'y': -198.034395808511}}"
   ]
   node
   [
@@ -729,7 +729,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -461.147246341164, 'y': -255.135833251964}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -461.147246341164, 'y': -255.135833251964}}"
   ]
   node
   [
@@ -742,7 +742,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -290.059989331467, 'y': 477.975968689833}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -290.059989331467, 'y': 477.975968689833}}"
   ]
   node
   [
@@ -755,7 +755,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -229.235645523438, 'y': 191.016468556602}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -229.235645523438, 'y': 191.016468556602}}"
   ]
   node
   [
@@ -768,7 +768,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -611.585182704111, 'y': 66.6581093825722}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -611.585182704111, 'y': 66.6581093825722}}"
   ]
   node
   [
@@ -781,7 +781,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -457.167313168178, 'y': -291.882134186664}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -457.167313168178, 'y': -291.882134186664}}"
   ]
   node
   [
@@ -794,7 +794,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 189.597005308245, 'y': -211.450191701237}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 189.597005308245, 'y': -211.450191701237}}"
   ]
   node
   [
@@ -807,7 +807,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -125.286306399551, 'y': 12.8160408481115}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -125.286306399551, 'y': 12.8160408481115}}"
   ]
   node
   [
@@ -820,7 +820,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -431.793837031688, 'y': -317.938688038112}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -431.793837031688, 'y': -317.938688038112}}"
   ]
   node
   [
@@ -833,7 +833,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -171.707800052991, 'y': 78.6151008848505}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -171.707800052991, 'y': 78.6151008848505}}"
   ]
   node
   [
@@ -846,7 +846,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.38021124171161 , 'pos': {'x': -33.3517444418581, 'y': 76.8874461256189}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -33.3517444418581, 'y': 76.8874461256189}}"
   ]
   node
   [
@@ -859,7 +859,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 280.31285615684, 'y': -604.138341570145}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 280.31285615684, 'y': -604.138341570145}}"
   ]
   node
   [
@@ -872,7 +872,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.82167725865437 , 'pos': {'x': 156.368277717877, 'y': 7.40480029568626}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 156.368277717877, 'y': 7.40480029568626}}"
   ]
   node
   [
@@ -885,7 +885,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -63.3120625693835, 'y': 7.48045067687114}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -63.3120625693835, 'y': 7.48045067687114}}"
   ]
   node
   [
@@ -898,7 +898,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -9.48048373201616, 'y': -11.3444007827365}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -9.48048373201616, 'y': -11.3444007827365}}"
   ]
   node
   [
@@ -911,7 +911,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -520.637203053032, 'y': -402.829615077889}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -520.637203053032, 'y': -402.829615077889}}"
   ]
   node
   [
@@ -924,7 +924,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -372.791616810746, 'y': -558.778605103437}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -372.791616810746, 'y': -558.778605103437}}"
   ]
   node
   [
@@ -937,7 +937,7 @@ graph
     DonationAmount 100
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -536.695224086445, 'y': 137.848823978386}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -536.695224086445, 'y': 137.848823978386}}"
   ]
   node
   [
@@ -950,7 +950,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 100
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -544.391378981119, 'y': 157.938883993868}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.13549137980253 , 'position': {'x': -544.391378981119, 'y': 157.938883993868}}"
   ]
   node
   [
@@ -963,7 +963,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -63.1880220202004, 'y': 17.001074394677}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -63.1880220202004, 'y': 17.001074394677}}"
   ]
   node
   [
@@ -976,7 +976,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -147.16640264093, 'y': -216.16999454055}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -147.16640264093, 'y': -216.16999454055}}"
   ]
   node
   [
@@ -989,7 +989,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -46.4400119856505, 'y': 95.804802359031}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -46.4400119856505, 'y': 95.804802359031}}"
   ]
   node
   [
@@ -1002,7 +1002,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.98565097369095 , 'pos': {'x': 133.218570133182, 'y': -49.9552757170547}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 133.218570133182, 'y': -49.9552757170547}}"
   ]
   node
   [
@@ -1015,7 +1015,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -472.765755650745, 'y': -466.32166789395}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -472.765755650745, 'y': -466.32166789395}}"
   ]
   node
   [
@@ -1028,7 +1028,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 208.451872027252, 'y': -84.9812775209487}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 208.451872027252, 'y': -84.9812775209487}}"
   ]
   node
   [
@@ -1041,7 +1041,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -144.352698035033, 'y': -23.9374157378942}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -144.352698035033, 'y': -23.9374157378942}}"
   ]
   node
   [
@@ -1054,7 +1054,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -51.497107035907, 'y': 5.26886445800513}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -51.497107035907, 'y': 5.26886445800513}}"
   ]
   node
   [
@@ -1067,7 +1067,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -48.8191308294662, 'y': 15.4625676556781}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -48.8191308294662, 'y': 15.4625676556781}}"
   ]
   node
   [
@@ -1080,7 +1080,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.8819549713396 , 'pos': {'x': -61.8035153881385, 'y': -0.357741689735112}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -61.8035153881385, 'y': -0.357741689735112}}"
   ]
   node
   [
@@ -1093,7 +1093,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -133.132966682768, 'y': 39.3349439159086}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -133.132966682768, 'y': 39.3349439159086}}"
   ]
   node
   [
@@ -1106,7 +1106,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -22.1252117493118, 'y': 56.7683402588143}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -22.1252117493118, 'y': 56.7683402588143}}"
   ]
   node
   [
@@ -1119,7 +1119,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -55.1679499996056, 'y': 113.38144086798}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -55.1679499996056, 'y': 113.38144086798}}"
   ]
   node
   [
@@ -1132,7 +1132,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -45.7581583667426, 'y': -36.0620102574774}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -45.7581583667426, 'y': -36.0620102574774}}"
   ]
   node
   [
@@ -1145,7 +1145,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 48.4982135829976, 'y': 22.2279674591687}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': 48.4982135829976, 'y': 22.2279674591687}}"
   ]
   node
   [
@@ -1158,7 +1158,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -140.429581718965, 'y': 28.8747442257136}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -140.429581718965, 'y': 28.8747442257136}}"
   ]
   node
   [
@@ -1171,7 +1171,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -3.49713684717947, 'y': 15.8861690027272}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -3.49713684717947, 'y': 15.8861690027272}}"
   ]
   node
   [
@@ -1184,7 +1184,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -90.7047288067881, 'y': 122.360751918536}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -90.7047288067881, 'y': 122.360751918536}}"
   ]
   node
   [
@@ -1197,7 +1197,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 10.6326661125606, 'y': 77.019729611228}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 10.6326661125606, 'y': 77.019729611228}}"
   ]
   node
   [
@@ -1210,7 +1210,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -76.1826971849194, 'y': -23.3217843766286}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -76.1826971849194, 'y': -23.3217843766286}}"
   ]
   node
   [
@@ -1223,7 +1223,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -84.7624248030016, 'y': -98.9500997118917}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -84.7624248030016, 'y': -98.9500997118917}}"
   ]
   node
   [
@@ -1236,7 +1236,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -70.5271976599415, 'y': 126.830698774039}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -70.5271976599415, 'y': 126.830698774039}}"
   ]
   node
   [
@@ -1249,7 +1249,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -77.5793826059022, 'y': 114.454470628215}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -77.5793826059022, 'y': 114.454470628215}}"
   ]
   node
   [
@@ -1262,7 +1262,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 140.205264283243, 'y': -120.616225377524}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 140.205264283243, 'y': -120.616225377524}}"
   ]
   node
   [
@@ -1275,7 +1275,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 476.5422703607, 'y': 103.910049997556}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 476.5422703607, 'y': 103.910049997556}}"
   ]
   node
   [
@@ -1288,7 +1288,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -153.73596897418, 'y': 186.318567710736}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -153.73596897418, 'y': 186.318567710736}}"
   ]
   node
   [
@@ -1301,7 +1301,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -112.605987190447, 'y': 196.373220143071}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -112.605987190447, 'y': 196.373220143071}}"
   ]
   node
   [
@@ -1314,7 +1314,7 @@ graph
     DonationAmount 11515
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 73.3273979827629, 'y': -48.1845662563561}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': 73.3273979827629, 'y': -48.1845662563561}}"
   ]
   node
   [
@@ -1327,7 +1327,7 @@ graph
     DonationAmount 480.72
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 213.002521395529, 'y': -225.494958595404}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 213.002521395529, 'y': -225.494958595404}}"
   ]
   node
   [
@@ -1340,7 +1340,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 200
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -81.9148018267713, 'y': 312.481892176629}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.45691486020374 , 'position': {'x': -81.9148018267713, 'y': 312.481892176629}}"
   ]
   node
   [
@@ -1353,7 +1353,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -74.6587340463869, 'y': -158.464076906152}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -74.6587340463869, 'y': -158.464076906152}}"
   ]
   node
   [
@@ -1366,7 +1366,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 33.7236278787286, 'y': -168.121757656761}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 33.7236278787286, 'y': -168.121757656761}}"
   ]
   node
   [
@@ -1379,7 +1379,7 @@ graph
     DonationAmount 200
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -29.0737367809936, 'y': 204.765568746923}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -29.0737367809936, 'y': 204.765568746923}}"
   ]
   node
   [
@@ -1392,7 +1392,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -169.287467031029, 'y': -32.2432302892201}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -169.287467031029, 'y': -32.2432302892201}}"
   ]
   node
   [
@@ -1405,7 +1405,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -36.4497273200076, 'y': 29.9241210048625}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -36.4497273200076, 'y': 29.9241210048625}}"
   ]
   node
   [
@@ -1418,7 +1418,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -502.614741050268, 'y': -270.493586627044}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -502.614741050268, 'y': -270.493586627044}}"
   ]
   node
   [
@@ -1431,7 +1431,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -117.565652312223, 'y': -284.985972439853}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -117.565652312223, 'y': -284.985972439853}}"
   ]
   node
   [
@@ -1444,7 +1444,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -142.997650315086, 'y': -322.987718616546}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -142.997650315086, 'y': -322.987718616546}}"
   ]
   node
   [
@@ -1457,7 +1457,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -76.3822457607255, 'y': -336.218280040803}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -76.3822457607255, 'y': -336.218280040803}}"
   ]
   node
   [
@@ -1470,7 +1470,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'pos': {'x': -103.021639047696, 'y': -365.946116267307}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -103.021639047696, 'y': -365.946116267307}}"
   ]
   node
   [
@@ -1483,7 +1483,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -552.559574048963, 'y': 213.835628030694}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -552.559574048963, 'y': 213.835628030694}}"
   ]
   node
   [
@@ -1496,7 +1496,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -12.3782573117705, 'y': 12.094564921854}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -12.3782573117705, 'y': 12.094564921854}}"
   ]
   node
   [
@@ -1509,7 +1509,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 26.2883067193453, 'y': -12.3858967981506}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 26.2883067193453, 'y': -12.3858967981506}}"
   ]
   node
   [
@@ -1522,7 +1522,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -15.7688767949992, 'y': 30.2109293482113}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -15.7688767949992, 'y': 30.2109293482113}}"
   ]
   node
   [
@@ -1535,7 +1535,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -192.111247435769, 'y': 54.1560922229463}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -192.111247435769, 'y': 54.1560922229463}}"
   ]
   node
   [
@@ -1548,7 +1548,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 14.0095130169181, 'y': 19.3452013730881}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 14.0095130169181, 'y': 19.3452013730881}}"
   ]
   node
   [
@@ -1561,7 +1561,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -84.1568301782016, 'y': 7.21282701467619}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -84.1568301782016, 'y': 7.21282701467619}}"
   ]
   node
   [
@@ -1574,7 +1574,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.17609125905568 , 'pos': {'x': 30.1236526819249, 'y': 106.95885033493}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 30.1236526819249, 'y': 106.95885033493}}"
   ]
   node
   [
@@ -1587,7 +1587,7 @@ graph
     DonationAmount 5208
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -3.69971192152044, 'y': 10.4135537588672}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -3.69971192152044, 'y': 10.4135537588672}}"
   ]
   node
   [
@@ -1600,7 +1600,7 @@ graph
     DonationAmount 49.16
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 345.00669387261, 'y': 14.5232591964955}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 345.00669387261, 'y': 14.5232591964955}}"
   ]
   node
   [
@@ -1613,7 +1613,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 3442.84
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 469.815128826516, 'y': 9.51931067524281}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.77652771154859 , 'position': {'x': 469.815128826516, 'y': 9.51931067524281}}"
   ]
   node
   [
@@ -1626,7 +1626,7 @@ graph
     DonationAmount 648.96
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 454.119278533878, 'y': 13.7192459883144}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 454.119278533878, 'y': 13.7192459883144}}"
   ]
   node
   [
@@ -1639,7 +1639,7 @@ graph
     DonationAmount 312
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -25.7807134253989, 'y': 20.4681396457395}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -25.7807134253989, 'y': 20.4681396457395}}"
   ]
   node
   [
@@ -1652,7 +1652,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -7.88119759887802, 'y': 57.4404922701631}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -7.88119759887802, 'y': 57.4404922701631}}"
   ]
   node
   [
@@ -1665,7 +1665,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 54.8792331577529, 'y': -56.6043012650388}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 54.8792331577529, 'y': -56.6043012650388}}"
   ]
   node
   [
@@ -1678,7 +1678,7 @@ graph
     DonationAmount 810
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 16.3730449467724, 'y': 15.5542428504375}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 16.3730449467724, 'y': 15.5542428504375}}"
   ]
   node
   [
@@ -1691,7 +1691,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -139.022974855241, 'y': 69.6164467486589}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -139.022974855241, 'y': 69.6164467486589}}"
   ]
   node
   [
@@ -1704,7 +1704,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -56.7307352589573, 'y': -46.644538907194}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -56.7307352589573, 'y': -46.644538907194}}"
   ]
   node
   [
@@ -1717,7 +1717,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -74.9922032613289, 'y': -41.8466027068861}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -74.9922032613289, 'y': -41.8466027068861}}"
   ]
   node
   [
@@ -1730,7 +1730,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -102.797121309641, 'y': -71.4515804303974}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -102.797121309641, 'y': -71.4515804303974}}"
   ]
   node
   [
@@ -1743,7 +1743,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -99.8348316642628, 'y': -105.218260144339}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -99.8348316642628, 'y': -105.218260144339}}"
   ]
   node
   [
@@ -1756,7 +1756,7 @@ graph
     DonationAmount 720
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -25.6417250726105, 'y': -5.74546813184473}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -25.6417250726105, 'y': -5.74546813184473}}"
   ]
   node
   [
@@ -1769,7 +1769,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 133.167088011612, 'y': 229.225667326143}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 133.167088011612, 'y': 229.225667326143}}"
   ]
   node
   [
@@ -1782,7 +1782,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -124.752854679886, 'y': 48.1913707834955}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -124.752854679886, 'y': 48.1913707834955}}"
   ]
   node
   [
@@ -1795,7 +1795,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -443.341512861845, 'y': -381.595532598262}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -443.341512861845, 'y': -381.595532598262}}"
   ]
   node
   [
@@ -1808,7 +1808,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -616.402006851126, 'y': -145.14148186366}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -616.402006851126, 'y': -145.14148186366}}"
   ]
   node
   [
@@ -1821,7 +1821,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 56.2784759882743, 'y': 116.174096010449}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 56.2784759882743, 'y': 116.174096010449}}"
   ]
   node
   [
@@ -1834,7 +1834,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -121.38142788073, 'y': -25.2026123532084}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -121.38142788073, 'y': -25.2026123532084}}"
   ]
   node
   [
@@ -1847,7 +1847,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -76.4201123653581, 'y': -170.10333707601}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -76.4201123653581, 'y': -170.10333707601}}"
   ]
   node
   [
@@ -1860,7 +1860,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -139.780441492266, 'y': -236.917252268417}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -139.780441492266, 'y': -236.917252268417}}"
   ]
   node
   [
@@ -1873,7 +1873,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -617.427221301314, 'y': -109.460415367662}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -617.427221301314, 'y': -109.460415367662}}"
   ]
   node
   [
@@ -1886,7 +1886,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 17.0322176031871, 'y': -117.814530251861}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 17.0322176031871, 'y': -117.814530251861}}"
   ]
   node
   [
@@ -1899,7 +1899,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -9.53963683993017, 'y': 80.0969066646987}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -9.53963683993017, 'y': 80.0969066646987}}"
   ]
   node
   [
@@ -1912,7 +1912,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 124.597257563629, 'y': -62.844155187058}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 124.597257563629, 'y': -62.844155187058}}"
   ]
   node
   [
@@ -1925,7 +1925,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -307.161378650178, 'y': -181.046786137764}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -307.161378650178, 'y': -181.046786137764}}"
   ]
   node
   [
@@ -1938,7 +1938,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -300.571540691783, 'y': -193.894570108221}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -300.571540691783, 'y': -193.894570108221}}"
   ]
   node
   [
@@ -1951,7 +1951,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -161.669814007807, 'y': -169.314440213074}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -161.669814007807, 'y': -169.314440213074}}"
   ]
   node
   [
@@ -1964,7 +1964,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 358.553618757021, 'y': 80.4529966141612}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 358.553618757021, 'y': 80.4529966141612}}"
   ]
   node
   [
@@ -1977,7 +1977,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -579.534956375124, 'y': -133.928237674527}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -579.534956375124, 'y': -133.928237674527}}"
   ]
   node
   [
@@ -1990,7 +1990,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -102.783127768094, 'y': 105.439336612108}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -102.783127768094, 'y': 105.439336612108}}"
   ]
   node
   [
@@ -2003,7 +2003,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 69.0956888646081, 'y': 15.0019830759037}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 69.0956888646081, 'y': 15.0019830759037}}"
   ]
   node
   [
@@ -2016,7 +2016,7 @@ graph
     DonationAmount 2376.24
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 56.7152617965488, 'y': -29.6527479092637}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 56.7152617965488, 'y': -29.6527479092637}}"
   ]
   node
   [
@@ -2029,7 +2029,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 120.74053796037, 'y': 67.3183136454559}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 120.74053796037, 'y': 67.3183136454559}}"
   ]
   node
   [
@@ -2042,7 +2042,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -66.6070782013741, 'y': -11.8964852233008}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -66.6070782013741, 'y': -11.8964852233008}}"
   ]
   node
   [
@@ -2055,7 +2055,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1.8165726960261 , 'pos': {'x': -56.6215399861492, 'y': -21.0126075933079}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -56.6215399861492, 'y': -21.0126075933079}}"
   ]
   node
   [
@@ -2068,7 +2068,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -574.332210147369, 'y': 179.46738318721}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -574.332210147369, 'y': 179.46738318721}}"
   ]
   node
   [
@@ -2081,7 +2081,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 91.4502746023314, 'y': -180.148525199104}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 91.4502746023314, 'y': -180.148525199104}}"
   ]
   node
   [
@@ -2094,7 +2094,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -109.295872863523, 'y': 73.5582709296146}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -109.295872863523, 'y': 73.5582709296146}}"
   ]
   node
   [
@@ -2107,7 +2107,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -189.08520012247, 'y': 113.069233060177}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -189.08520012247, 'y': 113.069233060177}}"
   ]
   node
   [
@@ -2120,7 +2120,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -134.025381133099, 'y': 78.2408217166791}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -134.025381133099, 'y': 78.2408217166791}}"
   ]
   node
   [
@@ -2133,7 +2133,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -443.35488750939, 'y': 355.428668656119}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -443.35488750939, 'y': 355.428668656119}}"
   ]
   node
   [
@@ -2146,7 +2146,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 33.50730780523, 'y': 52.4505098910498}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 33.50730780523, 'y': 52.4505098910498}}"
   ]
   node
   [
@@ -2159,7 +2159,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.37589030222323 , 'pos': {'x': 12.4917892061482, 'y': -39.3534453678227}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 12.4917892061482, 'y': -39.3534453678227}}"
   ]
   node
   [
@@ -2172,7 +2172,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.77959649125782 , 'pos': {'x': -54.5097544244304, 'y': 73.7460317334518}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -54.5097544244304, 'y': 73.7460317334518}}"
   ]
   node
   [
@@ -2185,7 +2185,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -40.3871416144724, 'y': 42.2025711962178}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -40.3871416144724, 'y': 42.2025711962178}}"
   ]
   node
   [
@@ -2198,7 +2198,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 44.6761918731792, 'y': -1.01312435684477}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 44.6761918731792, 'y': -1.01312435684477}}"
   ]
   node
   [
@@ -2211,7 +2211,7 @@ graph
     DonationAmount 6632.5
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 24.3094062942934, 'y': -83.4942408477515}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 24.3094062942934, 'y': -83.4942408477515}}"
   ]
   node
   [
@@ -2224,7 +2224,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -465.38638832046, 'y': -347.166835303947}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -465.38638832046, 'y': -347.166835303947}}"
   ]
   node
   [
@@ -2237,7 +2237,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -45.9710660567975, 'y': 122.303860937977}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -45.9710660567975, 'y': 122.303860937977}}"
   ]
   node
   [
@@ -2250,7 +2250,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -80.1054047602245, 'y': -31.5380471097606}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -80.1054047602245, 'y': -31.5380471097606}}"
   ]
   node
   [
@@ -2263,7 +2263,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 78.1086851233264, 'y': 231.549911720388}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 78.1086851233264, 'y': 231.549911720388}}"
   ]
   node
   [
@@ -2276,7 +2276,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 47.6045940777247, 'y': -90.3665235967561}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 47.6045940777247, 'y': -90.3665235967561}}"
   ]
   node
   [
@@ -2289,7 +2289,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -14.0408758807897, 'y': -154.195472886129}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -14.0408758807897, 'y': -154.195472886129}}"
   ]
   node
   [
@@ -2302,7 +2302,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 96.0103280530671, 'y': 91.7436714302442}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 96.0103280530671, 'y': 91.7436714302442}}"
   ]
   node
   [
@@ -2315,7 +2315,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -512.925773341526, 'y': -34.7094563089549}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -512.925773341526, 'y': -34.7094563089549}}"
   ]
   node
   [
@@ -2328,7 +2328,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 329.325691345394, 'y': -581.016925059779}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 329.325691345394, 'y': -581.016925059779}}"
   ]
   node
   [
@@ -2341,7 +2341,7 @@ graph
     DonationAmount 240
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 0.472187785518067, 'y': 34.6788582320557}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 0.472187785518067, 'y': 34.6788582320557}}"
   ]
   node
   [
@@ -2354,7 +2354,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 26.2227008009999, 'y': 55.3077945886461}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 26.2227008009999, 'y': 55.3077945886461}}"
   ]
   node
   [
@@ -2367,7 +2367,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 113.312911251552, 'y': 45.2156423938269}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 113.312911251552, 'y': 45.2156423938269}}"
   ]
   node
   [
@@ -2380,7 +2380,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 103.307134071409, 'y': 130.911928871908}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 103.307134071409, 'y': 130.911928871908}}"
   ]
   node
   [
@@ -2393,7 +2393,7 @@ graph
     DonationAmount 405
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -16.7953791044547, 'y': 73.8881176788487}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -16.7953791044547, 'y': 73.8881176788487}}"
   ]
   node
   [
@@ -2406,7 +2406,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 37.5192469249723, 'y': -10.6974843915438}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 37.5192469249723, 'y': -10.6974843915438}}"
   ]
   node
   [
@@ -2419,7 +2419,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -482.005370175125, 'y': -394.346629160964}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -482.005370175125, 'y': -394.346629160964}}"
   ]
   node
   [
@@ -2432,7 +2432,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -21.8573063710508, 'y': 144.519123171009}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -21.8573063710508, 'y': 144.519123171009}}"
   ]
   node
   [
@@ -2445,7 +2445,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 84.4304345207936, 'y': 180.244307491548}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 84.4304345207936, 'y': 180.244307491548}}"
   ]
   node
   [
@@ -2458,7 +2458,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -70.5905567357748, 'y': 172.792880471694}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -70.5905567357748, 'y': 172.792880471694}}"
   ]
   node
   [
@@ -2471,7 +2471,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -435.547168975326, 'y': -456.316098732062}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -435.547168975326, 'y': -456.316098732062}}"
   ]
   node
   [
@@ -2484,7 +2484,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 546.783126367521, 'y': -286.910424234765}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 546.783126367521, 'y': -286.910424234765}}"
   ]
   node
   [
@@ -2497,7 +2497,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 552.7876534891, 'y': -319.01775855568}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 552.7876534891, 'y': -319.01775855568}}"
   ]
   node
   [
@@ -2510,7 +2510,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 567.936565461853, 'y': -295.271295647021}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 567.936565461853, 'y': -295.271295647021}}"
   ]
   node
   [
@@ -2523,7 +2523,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 551.658127641126, 'y': -259.993784348007}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 551.658127641126, 'y': -259.993784348007}}"
   ]
   node
   [
@@ -2536,7 +2536,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.53691684009308 , 'pos': {'x': 523.855897993778, 'y': -322.332268167168}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 523.855897993778, 'y': -322.332268167168}}"
   ]
   node
   [
@@ -2549,7 +2549,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 238.570802498134, 'y': 100.85728745122}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 238.570802498134, 'y': 100.85728745122}}"
   ]
   node
   [
@@ -2562,7 +2562,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -415.4908248794, 'y': -350.508884906004}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -415.4908248794, 'y': -350.508884906004}}"
   ]
   node
   [
@@ -2575,7 +2575,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 140.162342871711, 'y': 61.5814211754193}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 140.162342871711, 'y': 61.5814211754193}}"
   ]
   node
   [
@@ -2588,7 +2588,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 5.82803600910706, 'y': 214.864979015326}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 5.82803600910706, 'y': 214.864979015326}}"
   ]
   node
   [
@@ -2601,7 +2601,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -544.364924946113, 'y': -120.603237786045}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -544.364924946113, 'y': -120.603237786045}}"
   ]
   node
   [
@@ -2614,7 +2614,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.17609125905568 , 'pos': {'x': 569.815526422304, 'y': -244.046877460565}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 569.815526422304, 'y': -244.046877460565}}"
   ]
   node
   [
@@ -2627,7 +2627,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -60.1557666061266, 'y': 301.798220320356}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -60.1557666061266, 'y': 301.798220320356}}"
   ]
   node
   [
@@ -2640,7 +2640,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -127.350982637561, 'y': 157.642762475462}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -127.350982637561, 'y': 157.642762475462}}"
   ]
   node
   [
@@ -2653,7 +2653,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 55.8416727484915, 'y': 240.690402151492}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 55.8416727484915, 'y': 240.690402151492}}"
   ]
   node
   [
@@ -2666,7 +2666,7 @@ graph
     DonationAmount 970
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -96.34165602729, 'y': 392.033308575748}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -96.34165602729, 'y': 392.033308575748}}"
   ]
   node
   [
@@ -2679,7 +2679,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -33.3883970845586, 'y': -38.9702028293311}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -33.3883970845586, 'y': -38.9702028293311}}"
   ]
   node
   [
@@ -2692,7 +2692,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 5.25937784520591, 'y': 253.617548771014}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 5.25937784520591, 'y': 253.617548771014}}"
   ]
   node
   [
@@ -2705,7 +2705,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -3.90493471177155, 'y': 353.383784720195}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -3.90493471177155, 'y': 353.383784720195}}"
   ]
   node
   [
@@ -2718,7 +2718,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -456.777229366498, 'y': -424.227962290924}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -456.777229366498, 'y': -424.227962290924}}"
   ]
   node
   [
@@ -2731,7 +2731,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -1.33558995180339, 'y': -37.0011313084925}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -1.33558995180339, 'y': -37.0011313084925}}"
   ]
   node
   [
@@ -2744,7 +2744,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -546.913290881321, 'y': -209.993203233612}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -546.913290881321, 'y': -209.993203233612}}"
   ]
   node
   [
@@ -2757,7 +2757,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -69.0431183404176, 'y': 71.5152184993654}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -69.0431183404176, 'y': 71.5152184993654}}"
   ]
   node
   [
@@ -2770,7 +2770,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -71.1222114409538, 'y': -61.9642134269759}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -71.1222114409538, 'y': -61.9642134269759}}"
   ]
   node
   [
@@ -2783,7 +2783,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -22.8819931500477, 'y': -67.9461198102107}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -22.8819931500477, 'y': -67.9461198102107}}"
   ]
   node
   [
@@ -2796,7 +2796,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -199.220703069977, 'y': -621.283122624531}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -199.220703069977, 'y': -621.283122624531}}"
   ]
   node
   [
@@ -2809,7 +2809,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -232.198344453786, 'y': -614.516672342334}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -232.198344453786, 'y': -614.516672342334}}"
   ]
   node
   [
@@ -2822,7 +2822,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -149.199912606747, 'y': -602.411814857766}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -149.199912606747, 'y': -602.411814857766}}"
   ]
   node
   [
@@ -2835,7 +2835,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -203.268120811048, 'y': -604.83658695926}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -203.268120811048, 'y': -604.83658695926}}"
   ]
   node
   [
@@ -2848,7 +2848,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -352.189094654093, 'y': -445.326260225147}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -352.189094654093, 'y': -445.326260225147}}"
   ]
   node
   [
@@ -2861,7 +2861,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 103.569702099024, 'y': 220.500107403705}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 103.569702099024, 'y': 220.500107403705}}"
   ]
   node
   [
@@ -2874,7 +2874,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 95.1013403308188, 'y': 244.21019397532}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 95.1013403308188, 'y': 244.21019397532}}"
   ]
   node
   [
@@ -2887,7 +2887,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 6632.5
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -11.3809597906122, 'y': -194.721375976655}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.08057942112188 , 'position': {'x': -11.3809597906122, 'y': -194.721375976655}}"
   ]
   node
   [
@@ -2900,7 +2900,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 113.642199621372, 'y': 254.589362738851}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 113.642199621372, 'y': 254.589362738851}}"
   ]
   node
   [
@@ -2913,7 +2913,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 95.7537760375578, 'y': 271.053791721774}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 95.7537760375578, 'y': 271.053791721774}}"
   ]
   node
   [
@@ -2926,7 +2926,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 83.567942774578, 'y': 271.266862919997}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 83.567942774578, 'y': 271.266862919997}}"
   ]
   node
   [
@@ -2939,7 +2939,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 104.117186150677, 'y': 250.138781060843}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 104.117186150677, 'y': 250.138781060843}}"
   ]
   node
   [
@@ -2952,7 +2952,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 541.660641536559, 'y': -348.732237868169}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 541.660641536559, 'y': -348.732237868169}}"
   ]
   node
   [
@@ -2965,7 +2965,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 85.00638719966, 'y': -302.266525563248}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 85.00638719966, 'y': -302.266525563248}}"
   ]
   node
   [
@@ -2978,7 +2978,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 202.473800899712, 'y': 367.602218407393}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 202.473800899712, 'y': 367.602218407393}}"
   ]
   node
   [
@@ -2991,7 +2991,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.26518688726786 , 'pos': {'x': -5.31536807216341, 'y': 190.474800220141}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -5.31536807216341, 'y': 190.474800220141}}"
   ]
   node
   [
@@ -3004,7 +3004,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 11.5944708350482, 'y': 235.866289416655}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 11.5944708350482, 'y': 235.866289416655}}"
   ]
   node
   [
@@ -3017,7 +3017,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 42.0802949276545, 'y': -409.735028664975}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 42.0802949276545, 'y': -409.735028664975}}"
   ]
   node
   [
@@ -3030,7 +3030,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 1600
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 296.004214299208, 'y': 78.6490278477829}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.42118530140738 , 'position': {'x': 296.004214299208, 'y': 78.6490278477829}}"
   ]
   node
   [
@@ -3043,7 +3043,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -405.451156420102, 'y': 402.301506801138}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -405.451156420102, 'y': 402.301506801138}}"
   ]
   node
   [
@@ -3056,7 +3056,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25863728272408 , 'pos': {'x': 114.597859664121, 'y': -154.036991765632}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 114.597859664121, 'y': -154.036991765632}}"
   ]
   node
   [
@@ -3069,7 +3069,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 64.0634907348944, 'y': -183.750146714488}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 64.0634907348944, 'y': -183.750146714488}}"
   ]
   node
   [
@@ -3082,7 +3082,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.17609125905568 , 'pos': {'x': 166.083179844625, 'y': -420.773211741336}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 166.083179844625, 'y': -420.773211741336}}"
   ]
   node
   [
@@ -3095,7 +3095,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 65.9921319053872, 'y': -156.673928832079}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 65.9921319053872, 'y': -156.673928832079}}"
   ]
   node
   [
@@ -3108,7 +3108,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.17609125905568 , 'pos': {'x': 193.673058373961, 'y': 395.193801880384}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 193.673058373961, 'y': 395.193801880384}}"
   ]
   node
   [
@@ -3121,7 +3121,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 75.5282106158327, 'y': -183.681100420721}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 75.5282106158327, 'y': -183.681100420721}}"
   ]
   node
   [
@@ -3134,7 +3134,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.77959649125782 , 'pos': {'x': 45.9915490445638, 'y': -76.7673336584798}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 45.9915490445638, 'y': -76.7673336584798}}"
   ]
   node
   [
@@ -3147,7 +3147,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 133.401414307571, 'y': 283.205442459757}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 133.401414307571, 'y': 283.205442459757}}"
   ]
   node
   [
@@ -3160,7 +3160,7 @@ graph
     DonationAmount 75
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 178.221061499987, 'y': 363.405611865505}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 178.221061499987, 'y': 363.405611865505}}"
   ]
   node
   [
@@ -3173,7 +3173,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 29.748482362343, 'y': 222.235002721745}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 29.748482362343, 'y': 222.235002721745}}"
   ]
   node
   [
@@ -3186,7 +3186,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 113.152312903127, 'y': -331.771025112098}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 113.152312903127, 'y': -331.771025112098}}"
   ]
   node
   [
@@ -3199,7 +3199,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 25.6637037748959, 'y': 234.347988602253}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 25.6637037748959, 'y': 234.347988602253}}"
   ]
   node
   [
@@ -3212,7 +3212,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 145.289265477336, 'y': 187.531434659788}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 145.289265477336, 'y': 187.531434659788}}"
   ]
   node
   [
@@ -3225,7 +3225,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'pos': {'x': 389.447471365896, 'y': 68.0786947966924}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 389.447471365896, 'y': 68.0786947966924}}"
   ]
   node
   [
@@ -3238,7 +3238,7 @@ graph
     DonationAmount 131.1
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 476.414780962601, 'y': 60.7545198232681}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 476.414780962601, 'y': 60.7545198232681}}"
   ]
   node
   [
@@ -3251,7 +3251,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -132.167325296023, 'y': 215.731607542205}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -132.167325296023, 'y': 215.731607542205}}"
   ]
   node
   [
@@ -3264,7 +3264,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -74.6604338953241, 'y': 104.513093742445}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -74.6604338953241, 'y': 104.513093742445}}"
   ]
   node
   [
@@ -3277,7 +3277,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -510.90525182625, 'y': 288.02594979106}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -510.90525182625, 'y': 288.02594979106}}"
   ]
   node
   [
@@ -3290,7 +3290,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -134.452260928177, 'y': 120.925792195767}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -134.452260928177, 'y': 120.925792195767}}"
   ]
   node
   [
@@ -3303,7 +3303,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -535.136285967813, 'y': 250.872676859893}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -535.136285967813, 'y': 250.872676859893}}"
   ]
   node
   [
@@ -3316,7 +3316,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -144.962610904487, 'y': 106.387052992518}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -144.962610904487, 'y': 106.387052992518}}"
   ]
   node
   [
@@ -3329,7 +3329,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1.69897000433602 , 'pos': {'x': -36.8244522288814, 'y': 135.804121398032}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -36.8244522288814, 'y': 135.804121398032}}"
   ]
   node
   [
@@ -3342,7 +3342,7 @@ graph
     DonationAmount 533.32
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -252.882376517249, 'y': 155.245362469105}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -252.882376517249, 'y': 155.245362469105}}"
   ]
   node
   [
@@ -3355,7 +3355,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -329.29188221146, 'y': -586.300360683705}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -329.29188221146, 'y': -586.300360683705}}"
   ]
   node
   [
@@ -3368,7 +3368,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 40.9695350895796, 'y': 39.9989944487447}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 40.9695350895796, 'y': 39.9989944487447}}"
   ]
   node
   [
@@ -3381,7 +3381,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 15.8166172249264, 'y': 38.3062277476553}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 15.8166172249264, 'y': 38.3062277476553}}"
   ]
   node
   [
@@ -3394,7 +3394,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -81.2701561024467, 'y': 17.9319252457626}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -81.2701561024467, 'y': 17.9319252457626}}"
   ]
   node
   [
@@ -3407,7 +3407,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -81.2898980898035, 'y': 28.1137898026175}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -81.2898980898035, 'y': 28.1137898026175}}"
   ]
   node
   [
@@ -3420,7 +3420,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 11.1747793355075, 'y': -5.98947930145299}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 11.1747793355075, 'y': -5.98947930145299}}"
   ]
   node
   [
@@ -3433,7 +3433,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -56.2682535934176, 'y': -571.436579145326}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -56.2682535934176, 'y': -571.436579145326}}"
   ]
   node
   [
@@ -3446,7 +3446,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 1.8028227286605, 'y': 87.0759858653679}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 1.8028227286605, 'y': 87.0759858653679}}"
   ]
   node
   [
@@ -3459,7 +3459,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 365.799860782221, 'y': -334.806677945644}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 365.799860782221, 'y': -334.806677945644}}"
   ]
   node
   [
@@ -3472,7 +3472,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -80.5500589747082, 'y': 260.490498247225}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -80.5500589747082, 'y': 260.490498247225}}"
   ]
   node
   [
@@ -3485,7 +3485,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -607.919001200191, 'y': -22.2567978568845}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -607.919001200191, 'y': -22.2567978568845}}"
   ]
   node
   [
@@ -3498,7 +3498,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -600.307794614319, 'y': -44.229798427614}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -600.307794614319, 'y': -44.229798427614}}"
   ]
   node
   [
@@ -3511,7 +3511,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -443.527085473844, 'y': -496.98055830165}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -443.527085473844, 'y': -496.98055830165}}"
   ]
   node
   [
@@ -3524,7 +3524,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': -Inf , 'pos': {'x': 44.0051031842587, 'y': 220.348094797376}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 44.0051031842587, 'y': 220.348094797376}}"
   ]
   node
   [
@@ -3537,7 +3537,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 77.540631042724, 'y': 217.68718699207}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 77.540631042724, 'y': 217.68718699207}}"
   ]
   node
   [
@@ -3550,7 +3550,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 36.8946931011358, 'y': -193.221243123373}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 36.8946931011358, 'y': -193.221243123373}}"
   ]
   node
   [
@@ -3563,7 +3563,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 241.712584714642, 'y': 79.3755860959137}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 241.712584714642, 'y': 79.3755860959137}}"
   ]
   node
   [
@@ -3576,7 +3576,7 @@ graph
     DonationAmount 10065
     FriendsDonationAmount NaN
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 161.793655696704, 'y': -120.676479285465}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'position': {'x': 161.793655696704, 'y': -120.676479285465}}"
   ]
   node
   [
@@ -3589,7 +3589,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 10065
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 234.192582607155, 'y': -199.47686087323}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.27398716024454 , 'position': {'x': 234.192582607155, 'y': -199.47686087323}}"
   ]
   node
   [
@@ -3602,7 +3602,7 @@ graph
     DonationAmount 170
     FriendsDonationAmount 10065
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 246.278991964467, 'y': -185.637889229927}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.27398716024454 , 'position': {'x': 246.278991964467, 'y': -185.637889229927}}"
   ]
   node
   [
@@ -3615,7 +3615,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 186.060550104922, 'y': 187.815114610583}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 186.060550104922, 'y': 187.815114610583}}"
   ]
   node
   [
@@ -3628,7 +3628,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 95.1456608933801, 'y': 288.714929793406}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 95.1456608933801, 'y': 288.714929793406}}"
   ]
   node
   [
@@ -3641,7 +3641,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 129.8387344123, 'y': 369.739203376462}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 129.8387344123, 'y': 369.739203376462}}"
   ]
   node
   [
@@ -3654,7 +3654,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 153.158967543434, 'y': 389.874639345847}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 153.158967543434, 'y': 389.874639345847}}"
   ]
   node
   [
@@ -3667,7 +3667,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 241.271777944926, 'y': 185.24402794656}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 241.271777944926, 'y': 185.24402794656}}"
   ]
   node
   [
@@ -3680,7 +3680,7 @@ graph
     DonationAmount 145
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 119.185487822273, 'y': 441.614839038934}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 119.185487822273, 'y': 441.614839038934}}"
   ]
   node
   [
@@ -3693,7 +3693,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 242.810585366266, 'y': 220.496103767542}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 242.810585366266, 'y': 220.496103767542}}"
   ]
   node
   [
@@ -3706,7 +3706,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -46.093270117559, 'y': 272.815667733008}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -46.093270117559, 'y': 272.815667733008}}"
   ]
   node
   [
@@ -3719,7 +3719,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2 , 'pos': {'x': 311.153881287767, 'y': 163.832145229597}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 311.153881287767, 'y': 163.832145229597}}"
   ]
   node
   [
@@ -3732,7 +3732,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 112.380364214699, 'y': 110.741739178376}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 112.380364214699, 'y': 110.741739178376}}"
   ]
   node
   [
@@ -3745,7 +3745,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 204.612320577925, 'y': 172.852870601564}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 204.612320577925, 'y': 172.852870601564}}"
   ]
   node
   [
@@ -3758,7 +3758,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 157.954713211369, 'y': 380.328926248156}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 157.954713211369, 'y': 380.328926248156}}"
   ]
   node
   [
@@ -3771,7 +3771,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 169.386850522838, 'y': 387.736383595005}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 169.386850522838, 'y': 387.736383595005}}"
   ]
   node
   [
@@ -3784,7 +3784,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 154.034395713396, 'y': 432.515391335394}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 154.034395713396, 'y': 432.515391335394}}"
   ]
   node
   [
@@ -3797,7 +3797,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 215.773215517467, 'y': 385.944007949052}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 215.773215517467, 'y': 385.944007949052}}"
   ]
   node
   [
@@ -3810,7 +3810,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -544.199711884552, 'y': -368.715259030737}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -544.199711884552, 'y': -368.715259030737}}"
   ]
   node
   [
@@ -3823,7 +3823,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 5.61931558867245 , 'pos': {'x': 207.493360580896, 'y': -172.398939685752}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 207.493360580896, 'y': -172.398939685752}}"
   ]
   node
   [
@@ -3836,7 +3836,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -601.413411789448, 'y': 2.27694817635912}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -601.413411789448, 'y': 2.27694817635912}}"
   ]
   node
   [
@@ -3849,7 +3849,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 477.172319224934, 'y': 174.167425082585}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 477.172319224934, 'y': 174.167425082585}}"
   ]
   node
   [
@@ -3862,7 +3862,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 180.993513005911, 'y': -86.644306926456}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 180.993513005911, 'y': -86.644306926456}}"
   ]
   node
   [
@@ -3875,7 +3875,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 487.966952583952, 'y': 155.532588876374}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 487.966952583952, 'y': 155.532588876374}}"
   ]
   node
   [
@@ -3888,7 +3888,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -585.743867344907, 'y': 19.8528938405289}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -585.743867344907, 'y': 19.8528938405289}}"
   ]
   node
   [
@@ -3901,7 +3901,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 43.0739386297023, 'y': 273.06001022325}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 43.0739386297023, 'y': 273.06001022325}}"
   ]
   node
   [
@@ -3914,7 +3914,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -506.893763924844, 'y': -75.946522591277}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -506.893763924844, 'y': -75.946522591277}}"
   ]
   node
   [
@@ -3927,7 +3927,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 380.616043980018, 'y': 86.3529600065583}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 380.616043980018, 'y': 86.3529600065583}}"
   ]
   node
   [
@@ -3940,7 +3940,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 459.641800597237, 'y': 121.314999563605}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 459.641800597237, 'y': 121.314999563605}}"
   ]
   node
   [
@@ -3953,7 +3953,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 142.204750008155, 'y': 205.785743938325}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 142.204750008155, 'y': 205.785743938325}}"
   ]
   node
   [
@@ -3966,7 +3966,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 129.050792436324, 'y': 211.647810914924}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 129.050792436324, 'y': 211.647810914924}}"
   ]
   node
   [
@@ -3979,7 +3979,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 149.960943732234, 'y': 238.02762888862}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 149.960943732234, 'y': 238.02762888862}}"
   ]
   node
   [
@@ -3992,7 +3992,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 4.07918124604763 , 'pos': {'x': -502.434915049705, 'y': -362.09604072715}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -502.434915049705, 'y': -362.09604072715}}"
   ]
   node
   [
@@ -4005,7 +4005,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 3.95203780792807, 'y': -87.8839878308659}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 3.95203780792807, 'y': -87.8839878308659}}"
   ]
   node
   [
@@ -4018,7 +4018,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.98565097369095 , 'pos': {'x': 217.768482983473, 'y': 0.157737385889482}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 217.768482983473, 'y': 0.157737385889482}}"
   ]
   node
   [
@@ -4031,7 +4031,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'pos': {'x': -292.995217012026, 'y': 152.648167585538}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -292.995217012026, 'y': 152.648167585538}}"
   ]
   node
   [
@@ -4044,7 +4044,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -284.490629726227, 'y': -534.698522765596}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -284.490629726227, 'y': -534.698522765596}}"
   ]
   node
   [
@@ -4057,7 +4057,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 165.384697169643, 'y': 219.768546094626}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 165.384697169643, 'y': 219.768546094626}}"
   ]
   node
   [
@@ -4070,7 +4070,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 213.028405936951, 'y': 229.192709139828}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 213.028405936951, 'y': 229.192709139828}}"
   ]
   node
   [
@@ -4083,7 +4083,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 420.276519998475, 'y': 45.8899335422111}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 420.276519998475, 'y': 45.8899335422111}}"
   ]
   node
   [
@@ -4096,7 +4096,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 183.786998240735, 'y': 204.108267987959}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 183.786998240735, 'y': 204.108267987959}}"
   ]
   node
   [
@@ -4109,7 +4109,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 166.886624148414, 'y': 206.434364286578}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 166.886624148414, 'y': 206.434364286578}}"
   ]
   node
   [
@@ -4122,7 +4122,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -324.929342109964, 'y': 74.2239249474553}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -324.929342109964, 'y': 74.2239249474553}}"
   ]
   node
   [
@@ -4135,7 +4135,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -534.954160050318, 'y': -158.919884970404}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -534.954160050318, 'y': -158.919884970404}}"
   ]
   node
   [
@@ -4148,7 +4148,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -217.72587219902, 'y': 63.5478428170698}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -217.72587219902, 'y': 63.5478428170698}}"
   ]
   node
   [
@@ -4161,7 +4161,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 415.122946802095, 'y': -53.416010208572}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 415.122946802095, 'y': -53.416010208572}}"
   ]
   node
   [
@@ -4174,7 +4174,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 221.66021490274, 'y': -309.162249255028}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 221.66021490274, 'y': -309.162249255028}}"
   ]
   node
   [
@@ -4187,7 +4187,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 56.6645005823092, 'y': 257.988345590291}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 56.6645005823092, 'y': 257.988345590291}}"
   ]
   node
   [
@@ -4200,7 +4200,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 40.6546639637872, 'y': 255.928925751409}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 40.6546639637872, 'y': 255.928925751409}}"
   ]
   node
   [
@@ -4213,7 +4213,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -531.65085890741, 'y': -299.337653411815}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -531.65085890741, 'y': -299.337653411815}}"
   ]
   node
   [
@@ -4226,7 +4226,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -189.228220125202, 'y': 79.3565239988075}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -189.228220125202, 'y': 79.3565239988075}}"
   ]
   node
   [
@@ -4239,7 +4239,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -58.0561431253766, 'y': 43.2517312944736}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -58.0561431253766, 'y': 43.2517312944736}}"
   ]
   node
   [
@@ -4252,7 +4252,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -224.113917353044, 'y': -352.678660606682}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -224.113917353044, 'y': -352.678660606682}}"
   ]
   node
   [
@@ -4265,7 +4265,7 @@ graph
     DonationAmount 510
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -278.196382042967, 'y': -385.954941388713}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -278.196382042967, 'y': -385.954941388713}}"
   ]
   node
   [
@@ -4278,7 +4278,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 172.422149222767, 'y': 149.359058818611}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 172.422149222767, 'y': 149.359058818611}}"
   ]
   node
   [
@@ -4291,7 +4291,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -96.2898232647553, 'y': -48.9250347894806}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -96.2898232647553, 'y': -48.9250347894806}}"
   ]
   node
   [
@@ -4304,7 +4304,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -107.973095638134, 'y': -42.5306941894134}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -107.973095638134, 'y': -42.5306941894134}}"
   ]
   node
   [
@@ -4317,7 +4317,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -95.0468666870293, 'y': -4.42102441825268}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -95.0468666870293, 'y': -4.42102441825268}}"
   ]
   node
   [
@@ -4330,7 +4330,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -94.0364753613912, 'y': 44.5708485912721}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -94.0364753613912, 'y': 44.5708485912721}}"
   ]
   node
   [
@@ -4343,7 +4343,7 @@ graph
     DonationAmount 1600
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 201.742852310978, 'y': 31.3057095981064}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 201.742852310978, 'y': 31.3057095981064}}"
   ]
   node
   [
@@ -4356,7 +4356,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 391.992744267199, 'y': -530.569496920719}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 391.992744267199, 'y': -530.569496920719}}"
   ]
   node
   [
@@ -4369,7 +4369,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 190.157956052326, 'y': 218.634994315307}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 190.157956052326, 'y': 218.634994315307}}"
   ]
   node
   [
@@ -4382,7 +4382,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -136.036059722045, 'y': -269.343789013763}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -136.036059722045, 'y': -269.343789013763}}"
   ]
   node
   [
@@ -4395,7 +4395,7 @@ graph
     DonationAmount 500
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -261.802347952398, 'y': -403.486290707865}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -261.802347952398, 'y': -403.486290707865}}"
   ]
   node
   [
@@ -4408,7 +4408,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.20411998265593 , 'pos': {'x': 78.1923172950091, 'y': 248.667793536494}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 78.1923172950091, 'y': 248.667793536494}}"
   ]
   node
   [
@@ -4421,7 +4421,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 95.3088922867455, 'y': 324.404235523618}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 95.3088922867455, 'y': 324.404235523618}}"
   ]
   node
   [
@@ -4434,7 +4434,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -161.607117172399, 'y': -14.3994805613595}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -161.607117172399, 'y': -14.3994805613595}}"
   ]
   node
   [
@@ -4447,7 +4447,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -248.960248252619, 'y': 15.0474311617911}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -248.960248252619, 'y': 15.0474311617911}}"
   ]
   node
   [
@@ -4460,7 +4460,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 203.191642477553, 'y': 190.036646509071}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 203.191642477553, 'y': 190.036646509071}}"
   ]
   node
   [
@@ -4473,7 +4473,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -485.310073213991, 'y': -218.928348349565}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -485.310073213991, 'y': -218.928348349565}}"
   ]
   node
   [
@@ -4486,7 +4486,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 267.064715249078, 'y': 92.1670192386051}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 267.064715249078, 'y': 92.1670192386051}}"
   ]
   node
   [
@@ -4499,7 +4499,7 @@ graph
     DonationAmount 520
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'pos': {'x': 248.858808312972, 'y': 251.23781541996}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 248.858808312972, 'y': 251.23781541996}}"
   ]
   node
   [
@@ -4512,7 +4512,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 357.166456815512, 'y': -137.65972023311}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 357.166456815512, 'y': -137.65972023311}}"
   ]
   node
   [
@@ -4525,7 +4525,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -173.60604942875, 'y': -82.0899287501246}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -173.60604942875, 'y': -82.0899287501246}}"
   ]
   node
   [
@@ -4538,7 +4538,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 5.26228493437774 , 'pos': {'x': 208.405741879842, 'y': -642.452606832279}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 208.405741879842, 'y': -642.452606832279}}"
   ]
   node
   [
@@ -4551,7 +4551,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -509.495611697092, 'y': 223.282747729895}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -509.495611697092, 'y': 223.282747729895}}"
   ]
   node
   [
@@ -4564,7 +4564,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 157.052986393598, 'y': 51.1610911421436}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 157.052986393598, 'y': 51.1610911421436}}"
   ]
   node
   [
@@ -4577,7 +4577,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 37.796287739158, 'y': -54.8875630618087}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 37.796287739158, 'y': -54.8875630618087}}"
   ]
   node
   [
@@ -4590,7 +4590,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 39.2913859197188, 'y': 11.781214451882}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 39.2913859197188, 'y': 11.781214451882}}"
   ]
   node
   [
@@ -4603,7 +4603,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -117.564130406281, 'y': 1.86200894662673}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -117.564130406281, 'y': 1.86200894662673}}"
   ]
   node
   [
@@ -4616,7 +4616,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 42.4878095568577, 'y': -241.62346342666}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 42.4878095568577, 'y': -241.62346342666}}"
   ]
   node
   [
@@ -4629,7 +4629,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -1.28918411808627, 'y': -66.829181424958}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -1.28918411808627, 'y': -66.829181424958}}"
   ]
   node
   [
@@ -4642,7 +4642,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -586.831376416828, 'y': 137.299583992418}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -586.831376416828, 'y': 137.299583992418}}"
   ]
   node
   [
@@ -4655,7 +4655,7 @@ graph
     DonationAmount 230
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 20.3168206832705, 'y': -146.958302143904}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 20.3168206832705, 'y': -146.958302143904}}"
   ]
   node
   [
@@ -4668,7 +4668,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2 , 'pos': {'x': -156.239468202795, 'y': 117.988114543627}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -156.239468202795, 'y': 117.988114543627}}"
   ]
   node
   [
@@ -4681,7 +4681,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -415.822695365204, 'y': 321.200288229147}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -415.822695365204, 'y': 321.200288229147}}"
   ]
   node
   [
@@ -4694,7 +4694,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -332.935678098731, 'y': -551.637801283052}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -332.935678098731, 'y': -551.637801283052}}"
   ]
   node
   [
@@ -4707,7 +4707,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -147.640210475261, 'y': 139.147691496605}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -147.640210475261, 'y': 139.147691496605}}"
   ]
   node
   [
@@ -4720,7 +4720,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 66.1777193335976, 'y': 266.315479191912}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 66.1777193335976, 'y': 266.315479191912}}"
   ]
   node
   [
@@ -4733,7 +4733,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -489.882110911973, 'y': -314.637058648669}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -489.882110911973, 'y': -314.637058648669}}"
   ]
   node
   [
@@ -4746,7 +4746,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25863728272408 , 'pos': {'x': -546.258018724605, 'y': -7.32584240850555}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -546.258018724605, 'y': -7.32584240850555}}"
   ]
   node
   [
@@ -4759,7 +4759,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 11815
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 146.627710773218, 'y': -176.828171442891}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.3483235583113 , 'position': {'x': 146.627710773218, 'y': -176.828171442891}}"
   ]
   node
   [
@@ -4772,7 +4772,7 @@ graph
     DonationAmount 300
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 196.612184024518, 'y': -262.830777885696}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 196.612184024518, 'y': -262.830777885696}}"
   ]
   node
   [
@@ -4785,7 +4785,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -565.961695442008, 'y': -325.640397036791}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -565.961695442008, 'y': -325.640397036791}}"
   ]
   node
   [
@@ -4798,7 +4798,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -33.803296924176, 'y': -147.377953190899}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -33.803296924176, 'y': -147.377953190899}}"
   ]
   node
   [
@@ -4811,7 +4811,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 2376.24
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 122.117855205367, 'y': -110.257266226952}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.60459231977833 , 'position': {'x': 122.117855205367, 'y': -110.257266226952}}"
   ]
   node
   [
@@ -4824,7 +4824,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 73.0042951763089, 'y': 281.637539685535}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 73.0042951763089, 'y': 281.637539685535}}"
   ]
   node
   [
@@ -4837,7 +4837,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 226.341517132859, 'y': 61.7147761505733}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 226.341517132859, 'y': 61.7147761505733}}"
   ]
   node
   [
@@ -4850,7 +4850,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 135.213153236064, 'y': 34.5575890252305}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 135.213153236064, 'y': 34.5575890252305}}"
   ]
   node
   [
@@ -4863,7 +4863,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 208.214875815139, 'y': 20.2424202253291}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 208.214875815139, 'y': 20.2424202253291}}"
   ]
   node
   [
@@ -4876,7 +4876,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 810
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 105.873660842516, 'y': 52.9400256600707}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.10552234305008 , 'position': {'x': 105.873660842516, 'y': 52.9400256600707}}"
   ]
   node
   [
@@ -4889,7 +4889,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -81.5043490846342, 'y': 151.393082281031}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -81.5043490846342, 'y': 151.393082281031}}"
   ]
   node
   [
@@ -4902,7 +4902,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -489.793854525775, 'y': 162.236712174112}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -489.793854525775, 'y': 162.236712174112}}"
   ]
   node
   [
@@ -4915,7 +4915,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -103.300119020009, 'y': 248.581791453284}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -103.300119020009, 'y': 248.581791453284}}"
   ]
   node
   [
@@ -4928,7 +4928,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.26571381064002 , 'pos': {'x': -58.2475697043601, 'y': -68.9875404027593}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -58.2475697043601, 'y': -68.9875404027593}}"
   ]
   node
   [
@@ -4941,7 +4941,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -598.077950236777, 'y': -249.605144994596}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -598.077950236777, 'y': -249.605144994596}}"
   ]
   node
   [
@@ -4954,7 +4954,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 152.436715865628, 'y': -56.0560932306579}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 152.436715865628, 'y': -56.0560932306579}}"
   ]
   node
   [
@@ -4967,7 +4967,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 237.880542851853, 'y': -109.850233896757}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 237.880542851853, 'y': -109.850233896757}}"
   ]
   node
   [
@@ -4980,7 +4980,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 91.9142207394242, 'y': -155.36579135293}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 91.9142207394242, 'y': -155.36579135293}}"
   ]
   node
   [
@@ -4993,7 +4993,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -457.334034258063, 'y': 249.319482919286}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -457.334034258063, 'y': 249.319482919286}}"
   ]
   node
   [
@@ -5006,7 +5006,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -96.2949097007829, 'y': 14.3697113810989}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -96.2949097007829, 'y': 14.3697113810989}}"
   ]
   node
   [
@@ -5019,7 +5019,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -135.8899704486, 'y': -13.1957910168431}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -135.8899704486, 'y': -13.1957910168431}}"
   ]
   node
   [
@@ -5032,7 +5032,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 312
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.90281846808225 , 'pos': {'x': -165.254000457779, 'y': 4.13994594513188}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.66312281771063 , 'position': {'x': -165.254000457779, 'y': 4.13994594513188}}"
   ]
   node
   [
@@ -5045,7 +5045,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25863728272408 , 'pos': {'x': 229.711747327924, 'y': -406.033140629979}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 229.711747327924, 'y': -406.033140629979}}"
   ]
   node
   [
@@ -5058,7 +5058,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -24.5526098980845, 'y': -125.01236269427}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -24.5526098980845, 'y': -125.01236269427}}"
   ]
   node
   [
@@ -5071,7 +5071,7 @@ graph
     DonationAmount 160
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -15.592320437715, 'y': -91.7116894589183}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -15.592320437715, 'y': -91.7116894589183}}"
   ]
   node
   [
@@ -5084,7 +5084,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 214.752304465495, 'y': 167.474332020036}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 214.752304465495, 'y': 167.474332020036}}"
   ]
   node
   [
@@ -5097,7 +5097,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -607.817219436222, 'y': -181.727131199201}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -607.817219436222, 'y': -181.727131199201}}"
   ]
   node
   [
@@ -5110,7 +5110,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -601.979754553602, 'y': -202.595734337798}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -601.979754553602, 'y': -202.595734337798}}"
   ]
   node
   [
@@ -5123,7 +5123,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 106.861381280293, 'y': 270.987265040687}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 106.861381280293, 'y': 270.987265040687}}"
   ]
   node
   [
@@ -5136,7 +5136,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25863728272408 , 'pos': {'x': -573.492324477157, 'y': 58.0383365170992}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -573.492324477157, 'y': 58.0383365170992}}"
   ]
   node
   [
@@ -5149,7 +5149,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 4.20172696120046, 'y': 104.069804354057}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 4.20172696120046, 'y': 104.069804354057}}"
   ]
   node
   [
@@ -5162,7 +5162,7 @@ graph
     DonationAmount 1581.45
     FriendsDonationAmount 181400
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 317.645828971792, 'y': -102.366390035949}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61488729338273 , 'position': {'x': 317.645828971792, 'y': -102.366390035949}}"
   ]
   node
   [
@@ -5175,7 +5175,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 478.260306870143, 'y': -412.568228214818}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 478.260306870143, 'y': -412.568228214818}}"
   ]
   node
   [
@@ -5188,7 +5188,7 @@ graph
     DonationAmount 6300
     FriendsDonationAmount 181400
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 315.189630107123, 'y': -86.0797564250593}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61488729338273 , 'position': {'x': 315.189630107123, 'y': -86.0797564250593}}"
   ]
   node
   [
@@ -5201,7 +5201,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 100.721317209137, 'y': -141.159169750889}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 100.721317209137, 'y': -141.159169750889}}"
   ]
   node
   [
@@ -5214,7 +5214,7 @@ graph
     DonationAmount 26360
     FriendsDonationAmount 182930
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 357.110358737506, 'y': -51.6392514966403}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 6.6187820577142 , 'position': {'x': 357.110358737506, 'y': -51.6392514966403}}"
   ]
   node
   [
@@ -5227,7 +5227,7 @@ graph
     DonationAmount 255
     FriendsDonationAmount 181400
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 297.894597580342, 'y': -88.5154693765971}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61488729338273 , 'position': {'x': 297.894597580342, 'y': -88.5154693765971}}"
   ]
   node
   [
@@ -5240,7 +5240,7 @@ graph
     DonationAmount 96750
     FriendsDonationAmount 184380
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 328.108811313801, 'y': -78.4278107478604}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.62244322556445 , 'position': {'x': 328.108811313801, 'y': -78.4278107478604}}"
   ]
   node
   [
@@ -5253,7 +5253,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -503.762192602363, 'y': -117.613233771569}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -503.762192602363, 'y': -117.613233771569}}"
   ]
   node
   [
@@ -5266,7 +5266,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -93.0282984684192, 'y': 257.044633120105}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -93.0282984684192, 'y': 257.044633120105}}"
   ]
   node
   [
@@ -5279,7 +5279,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 457.578014798608, 'y': -463.330557203666}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 457.578014798608, 'y': -463.330557203666}}"
   ]
   node
   [
@@ -5292,7 +5292,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 297.624785174829, 'y': -2.60999405792586}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 297.624785174829, 'y': -2.60999405792586}}"
   ]
   node
   [
@@ -5305,7 +5305,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 244.609503977629, 'y': -374.195560978649}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 244.609503977629, 'y': -374.195560978649}}"
   ]
   node
   [
@@ -5318,7 +5318,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 126.400608448238, 'y': -8.27308827045366}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 126.400608448238, 'y': -8.27308827045366}}"
   ]
   node
   [
@@ -5331,7 +5331,7 @@ graph
     DonationAmount 150
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 164.732322037085, 'y': -26.8036761032639}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 164.732322037085, 'y': -26.8036761032639}}"
   ]
   node
   [
@@ -5344,7 +5344,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 150
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 263.497713629711, 'y': -48.9269295466338}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.32351206268852 , 'position': {'x': 263.497713629711, 'y': -48.9269295466338}}"
   ]
   node
   [
@@ -5357,7 +5357,7 @@ graph
     DonationAmount 10500
     FriendsDonationAmount 150
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 265.573863984834, 'y': -33.4265124026386}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.32351206268852 , 'position': {'x': 265.573863984834, 'y': -33.4265124026386}}"
   ]
   node
   [
@@ -5370,7 +5370,7 @@ graph
     DonationAmount 100
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'pos': {'x': 125.837192753816, 'y': -166.899062797893}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': 125.837192753816, 'y': -166.899062797893}}"
   ]
   node
   [
@@ -5383,7 +5383,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 150
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 252.011923797688, 'y': -62.4529689799122}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.32351206268852 , 'position': {'x': 252.011923797688, 'y': -62.4529689799122}}"
   ]
   node
   [
@@ -5396,7 +5396,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 422.506061236648, 'y': -451.698117057646}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 422.506061236648, 'y': -451.698117057646}}"
   ]
   node
   [
@@ -5409,7 +5409,7 @@ graph
     DonationAmount 816
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -215.220421780036, 'y': 16.2538400563516}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -215.220421780036, 'y': 16.2538400563516}}"
   ]
   node
   [
@@ -5422,7 +5422,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -375.756309440671, 'y': -523.056606716982}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -375.756309440671, 'y': -523.056606716982}}"
   ]
   node
   [
@@ -5435,7 +5435,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -405.004082642648, 'y': -488.283144277698}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -405.004082642648, 'y': -488.283144277698}}"
   ]
   node
   [
@@ -5448,7 +5448,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -567.59880855738, 'y': -237.113069851276}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -567.59880855738, 'y': -237.113069851276}}"
   ]
   node
   [
@@ -5461,7 +5461,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 365.762947835035, 'y': -505.127061231175}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 365.762947835035, 'y': -505.127061231175}}"
   ]
   node
   [
@@ -5474,7 +5474,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 240
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'pos': {'x': -105.489613462387, 'y': 90.6499220577323}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.54146029439211 , 'position': {'x': -105.489613462387, 'y': 90.6499220577323}}"
   ]
   node
   [
@@ -5487,7 +5487,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'pos': {'x': -449.041833431972, 'y': 287.321261774042}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -449.041833431972, 'y': 287.321261774042}}"
   ]
   node
   [
@@ -5500,7 +5500,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -528.23142890708, 'y': -334.447068887028}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -528.23142890708, 'y': -334.447068887028}}"
   ]
   node
   [
@@ -5513,7 +5513,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 5208
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 89.627248790757, 'y': -20.0632495255808}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.96845941493547 , 'position': {'x': 89.627248790757, 'y': -20.0632495255808}}"
   ]
   node
   [
@@ -5526,7 +5526,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'pos': {'x': -290.469599688385, 'y': -568.364632935468}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -290.469599688385, 'y': -568.364632935468}}"
   ]
   node
   [
@@ -5539,7 +5539,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -391.593403174918, 'y': -378.767310405917}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -391.593403174918, 'y': -378.767310405917}}"
   ]
   node
   [
@@ -5552,7 +5552,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.17609125905568 , 'pos': {'x': -364.813579665562, 'y': -485.473564775306}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -364.813579665562, 'y': -485.473564775306}}"
   ]
   node
   [
@@ -5565,7 +5565,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 38.3125058385019, 'y': -113.040687897072}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 38.3125058385019, 'y': -113.040687897072}}"
   ]
   node
   [
@@ -5578,7 +5578,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -544.182394252783, 'y': -264.807049923061}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -544.182394252783, 'y': -264.807049923061}}"
   ]
   node
   [
@@ -5591,7 +5591,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -519.440537212609, 'y': 187.389895886906}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -519.440537212609, 'y': 187.389895886906}}"
   ]
   node
   [
@@ -5604,7 +5604,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -578.384336060507, 'y': -288.289235856019}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -578.384336060507, 'y': -288.289235856019}}"
   ]
   node
   [
@@ -5617,7 +5617,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -557.199991617279, 'y': 103.183763665945}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -557.199991617279, 'y': 103.183763665945}}"
   ]
   node
   [
@@ -5630,7 +5630,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -508.565851355252, 'y': -187.241861407403}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -508.565851355252, 'y': -187.241861407403}}"
   ]
   node
   [
@@ -5643,7 +5643,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 6632.5
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 8.85301831997642, 'y': -197.438592363986}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.08057942112188 , 'position': {'x': 8.85301831997642, 'y': -197.438592363986}}"
   ]
   node
   [
@@ -5656,7 +5656,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -381.922963835273, 'y': 375.272833777274}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -381.922963835273, 'y': 375.272833777274}}"
   ]
   node
   [
@@ -5669,7 +5669,7 @@ graph
     DonationAmount 600
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -5.92190283024146, 'y': -128.371103383097}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -5.92190283024146, 'y': -128.371103383097}}"
   ]
   node
   [
@@ -5682,7 +5682,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -556.295342415234, 'y': -46.453512711207}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -556.295342415234, 'y': -46.453512711207}}"
   ]
   node
   [
@@ -5695,7 +5695,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -545.759100676826, 'y': -82.2492986578849}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -545.759100676826, 'y': -82.2492986578849}}"
   ]
   node
   [
@@ -5708,7 +5708,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -121.684456222313, 'y': 96.6502021091092}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -121.684456222313, 'y': 96.6502021091092}}"
   ]
   node
   [
@@ -5721,7 +5721,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -136.360314768512, 'y': 461.85922528644}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -136.360314768512, 'y': 461.85922528644}}"
   ]
   node
   [
@@ -5734,7 +5734,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -66.1647336271616, 'y': 514.030254137797}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -66.1647336271616, 'y': 514.030254137797}}"
   ]
   node
   [
@@ -5747,7 +5747,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -184.121949590442, 'y': 452.417128555887}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -184.121949590442, 'y': 452.417128555887}}"
   ]
   node
   [
@@ -5760,7 +5760,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -5.58981957602238, 'y': -598.043215112028}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -5.58981957602238, 'y': -598.043215112028}}"
   ]
   node
   [
@@ -5773,7 +5773,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -41.3103015953401, 'y': -609.669757496282}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -41.3103015953401, 'y': -609.669757496282}}"
   ]
   node
   [
@@ -5786,7 +5786,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -2.99205601242974, 'y': -540.534560006301}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -2.99205601242974, 'y': -540.534560006301}}"
   ]
   node
   [
@@ -5799,7 +5799,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 25.06400026996, 'y': -584.24245555312}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 25.06400026996, 'y': -584.24245555312}}"
   ]
   node
   [
@@ -5812,7 +5812,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -25.0500101749229, 'y': -611.70149653801}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -25.0500101749229, 'y': -611.70149653801}}"
   ]
   node
   [
@@ -5825,7 +5825,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -20.8457830158768, 'y': -623.433432447179}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -20.8457830158768, 'y': -623.433432447179}}"
   ]
   node
   [
@@ -5838,7 +5838,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -13.6237907758081, 'y': -588.250804685496}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -13.6237907758081, 'y': -588.250804685496}}"
   ]
   node
   [
@@ -5851,7 +5851,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 50
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 350.16822587987, 'y': -546.468154872361}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.81406789940132 , 'position': {'x': 350.16822587987, 'y': -546.468154872361}}"
   ]
   node
   [
@@ -5864,7 +5864,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -9.2951547868413, 'y': -613.429350915983}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -9.2951547868413, 'y': -613.429350915983}}"
   ]
   node
   [
@@ -5877,7 +5877,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 2.84263648168097, 'y': -624.248555460651}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 2.84263648168097, 'y': -624.248555460651}}"
   ]
   node
   [
@@ -5890,7 +5890,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 4.23991898364952, 'y': -610.635986453424}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 4.23991898364952, 'y': -610.635986453424}}"
   ]
   node
   [
@@ -5903,7 +5903,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 126.678330831252, 'y': -504.331099839177}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 126.678330831252, 'y': -504.331099839177}}"
   ]
   node
   [
@@ -5916,7 +5916,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -36.4745864244594, 'y': -599.190243644419}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -36.4745864244594, 'y': -599.190243644419}}"
   ]
   node
   [
@@ -5929,7 +5929,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 31.6408590666758, 'y': -611.11496996087}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 31.6408590666758, 'y': -611.11496996087}}"
   ]
   node
   [
@@ -5942,7 +5942,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -31.0855269915122, 'y': -588.450821718627}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -31.0855269915122, 'y': -588.450821718627}}"
   ]
   node
   [
@@ -5955,7 +5955,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': 77.9912271844154, 'y': -410.853840138586}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 77.9912271844154, 'y': -410.853840138586}}"
   ]
   node
   [
@@ -5968,7 +5968,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 110.506082661316, 'y': -417.398659958741}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 110.506082661316, 'y': -417.398659958741}}"
   ]
   node
   [
@@ -5981,7 +5981,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 130.300924041537, 'y': -474.020727720808}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 130.300924041537, 'y': -474.020727720808}}"
   ]
   node
   [
@@ -5994,7 +5994,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 77.8282595220805, 'y': -471.160195678637}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 77.8282595220805, 'y': -471.160195678637}}"
   ]
   node
   [
@@ -6007,7 +6007,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'pos': {'x': 66.9499296015971, 'y': -451.356508299141}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 66.9499296015971, 'y': -451.356508299141}}"
   ]
   node
   [
@@ -6020,7 +6020,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 121.919667623256, 'y': -462.156236038806}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 121.919667623256, 'y': -462.156236038806}}"
   ]
   node
   [
@@ -6033,7 +6033,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 99.7177717766035, 'y': -444.375794563919}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 99.7177717766035, 'y': -444.375794563919}}"
   ]
   node
   [
@@ -6046,7 +6046,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 99.1248122132627, 'y': -471.713422312392}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 99.1248122132627, 'y': -471.713422312392}}"
   ]
   node
   [
@@ -6059,7 +6059,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 140.928858606199, 'y': -459.405013084945}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 140.928858606199, 'y': -459.405013084945}}"
   ]
   node
   [
@@ -6072,7 +6072,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 103.83847400079, 'y': -514.770410493889}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 103.83847400079, 'y': -514.770410493889}}"
   ]
   node
   [
@@ -6085,7 +6085,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 105.490699854097, 'y': -366.784373893583}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 105.490699854097, 'y': -366.784373893583}}"
   ]
   node
   [
@@ -6098,7 +6098,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 63.8798547490794, 'y': -483.463515191256}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 63.8798547490794, 'y': -483.463515191256}}"
   ]
   node
   [
@@ -6111,7 +6111,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 75.8009258435604, 'y': -601.662307475115}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 75.8009258435604, 'y': -601.662307475115}}"
   ]
   node
   [
@@ -6124,7 +6124,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 34.9432390806887, 'y': -539.712599349408}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 34.9432390806887, 'y': -539.712599349408}}"
   ]
   node
   [
@@ -6137,7 +6137,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -488.373958597531, 'y': -156.22958985003}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -488.373958597531, 'y': -156.22958985003}}"
   ]
   node
   [
@@ -6150,7 +6150,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -416.753948224983, 'y': -413.782231850552}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -416.753948224983, 'y': -413.782231850552}}"
   ]
   node
   [
@@ -6163,7 +6163,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.55448916000382 , 'pos': {'x': 47.1172035275854, 'y': -591.783826800623}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 47.1172035275854, 'y': -591.783826800623}}"
   ]
   node
   [
@@ -6176,7 +6176,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -567.971216663932, 'y': -175.911212308122}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -567.971216663932, 'y': -175.911212308122}}"
   ]
   node
   [
@@ -6189,7 +6189,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -46.5685526965988, 'y': -128.35540031836}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -46.5685526965988, 'y': -128.35540031836}}"
   ]
   node
   [
@@ -6202,7 +6202,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -19.1132334312182, 'y': -599.785491766882}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -19.1132334312182, 'y': -599.785491766882}}"
   ]
   node
   [
@@ -6215,7 +6215,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 59.5883908584177, 'y': -267.154594601193}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 59.5883908584177, 'y': -267.154594601193}}"
   ]
   node
   [
@@ -6228,7 +6228,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -31.172862530163, 'y': -568.629264354887}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -31.172862530163, 'y': -568.629264354887}}"
   ]
   node
   [
@@ -6241,7 +6241,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 175.486080931878, 'y': -337.953987336048}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 175.486080931878, 'y': -337.953987336048}}"
   ]
   node
   [
@@ -6254,7 +6254,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -73.6230849403086, 'y': -537.211370275032}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -73.6230849403086, 'y': -537.211370275032}}"
   ]
   node
   [
@@ -6267,7 +6267,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -94.6604516254051, 'y': -566.500259552111}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -94.6604516254051, 'y': -566.500259552111}}"
   ]
   node
   [
@@ -6280,7 +6280,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -51.1142312462248, 'y': -537.833498224019}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -51.1142312462248, 'y': -537.833498224019}}"
   ]
   node
   [
@@ -6293,7 +6293,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 88.5705861816075, 'y': -496.329400454794}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 88.5705861816075, 'y': -496.329400454794}}"
   ]
   node
   [
@@ -6306,7 +6306,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.69897000433602 , 'pos': {'x': -80.2279844630468, 'y': -570.489347352931}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -80.2279844630468, 'y': -570.489347352931}}"
   ]
   node
   [
@@ -6319,7 +6319,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -86.9962800681866, 'y': -589.411441655879}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -86.9962800681866, 'y': -589.411441655879}}"
   ]
   node
   [
@@ -6332,7 +6332,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -71.8744839009536, 'y': -560.854440931467}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -71.8744839009536, 'y': -560.854440931467}}"
   ]
   node
   [
@@ -6345,7 +6345,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 67.1632817659172, 'y': -530.345126535181}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 67.1632817659172, 'y': -530.345126535181}}"
   ]
   node
   [
@@ -6358,7 +6358,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 158.389292865161, 'y': -496.706279204075}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 158.389292865161, 'y': -496.706279204075}}"
   ]
   node
   [
@@ -6371,7 +6371,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -177.769560731427, 'y': -552.695751143883}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -177.769560731427, 'y': -552.695751143883}}"
   ]
   node
   [
@@ -6384,7 +6384,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -103.00848660901, 'y': -554.501735013042}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -103.00848660901, 'y': -554.501735013042}}"
   ]
   node
   [
@@ -6397,7 +6397,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 14.530398582603, 'y': -603.953536477394}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 14.530398582603, 'y': -603.953536477394}}"
   ]
   node
   [
@@ -6410,7 +6410,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 79.8421628454661, 'y': -449.6247166611}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 79.8421628454661, 'y': -449.6247166611}}"
   ]
   node
   [
@@ -6423,7 +6423,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 63.2204008477756, 'y': -444.951843088623}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 63.2204008477756, 'y': -444.951843088623}}"
   ]
   node
   [
@@ -6436,7 +6436,7 @@ graph
     DonationAmount 100
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -155.025930504813, 'y': -576.941118380388}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -155.025930504813, 'y': -576.941118380388}}"
   ]
   node
   [
@@ -6449,7 +6449,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -5.53994651562893, 'y': -484.001692218417}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -5.53994651562893, 'y': -484.001692218417}}"
   ]
   node
   [
@@ -6462,7 +6462,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 176.2035813096, 'y': -478.639050797828}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 176.2035813096, 'y': -478.639050797828}}"
   ]
   node
   [
@@ -6475,7 +6475,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -32.1134597875658, 'y': -514.568348728272}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -32.1134597875658, 'y': -514.568348728272}}"
   ]
   node
   [
@@ -6488,7 +6488,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 146.372284885923, 'y': -517.857763525519}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 146.372284885923, 'y': -517.857763525519}}"
   ]
   node
   [
@@ -6501,7 +6501,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'pos': {'x': 40.5719583220569, 'y': -209.15098315118}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 40.5719583220569, 'y': -209.15098315118}}"
   ]
   node
   [
@@ -6514,7 +6514,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 56.0243828234713, 'y': -475.745055970876}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 56.0243828234713, 'y': -475.745055970876}}"
   ]
   node
   [
@@ -6527,7 +6527,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 108.234566637449, 'y': -590.95905628003}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 108.234566637449, 'y': -590.95905628003}}"
   ]
   node
   [
@@ -6540,7 +6540,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 163.019786250349, 'y': -514.472288614775}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 163.019786250349, 'y': -514.472288614775}}"
   ]
   node
   [
@@ -6553,7 +6553,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 46.7334539774982, 'y': -432.245810130489}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 46.7334539774982, 'y': -432.245810130489}}"
   ]
   node
   [
@@ -6566,7 +6566,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -483.074032672058, 'y': 309.916000408887}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -483.074032672058, 'y': 309.916000408887}}"
   ]
   node
   [
@@ -6579,7 +6579,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -295.954085110056, 'y': -500.231204674078}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -295.954085110056, 'y': -500.231204674078}}"
   ]
   node
   [
@@ -6592,7 +6592,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -129.823810294358, 'y': -631.998947249756}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -129.823810294358, 'y': -631.998947249756}}"
   ]
   node
   [
@@ -6605,7 +6605,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 81.0935039167877, 'y': -522.702302712756}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 81.0935039167877, 'y': -522.702302712756}}"
   ]
   node
   [
@@ -6618,7 +6618,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 49.0345264178201, 'y': -358.865044773235}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 49.0345264178201, 'y': -358.865044773235}}"
   ]
   node
   [
@@ -6631,7 +6631,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 33.5910265399047, 'y': -479.344347926069}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 33.5910265399047, 'y': -479.344347926069}}"
   ]
   node
   [
@@ -6644,7 +6644,7 @@ graph
     DonationAmount 40
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -147.302944288519, 'y': -94.8268568782538}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -147.302944288519, 'y': -94.8268568782538}}"
   ]
   node
   [
@@ -6657,7 +6657,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 6.61410887397098, 'y': 48.0379545035636}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 6.61410887397098, 'y': 48.0379545035636}}"
   ]
   node
   [
@@ -6670,7 +6670,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "Associate Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -84.5471548113161, 'y': -180.833484634398}}"
+    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'position': {'x': -84.5471548113161, 'y': -180.833484634398}}"
   ]
   node
   [
@@ -6683,7 +6683,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.00281377922467 , 'pos': {'x': 26.9795117443634, 'y': -291.286165493932}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 26.9795117443634, 'y': -291.286165493932}}"
   ]
   node
   [
@@ -6696,7 +6696,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': -Inf , 'pos': {'x': -354.634786946708, 'y': -212.464145097911}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -354.634786946708, 'y': -212.464145097911}}"
   ]
   node
   [
@@ -6709,7 +6709,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 15.6435391019048, 'y': -26.9359497251658}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 15.6435391019048, 'y': -26.9359497251658}}"
   ]
   node
   [
@@ -6722,7 +6722,7 @@ graph
     DonationAmount 255
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -34.6119047335512, 'y': -158.865380652298}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -34.6119047335512, 'y': -158.865380652298}}"
   ]
   node
   [
@@ -6735,7 +6735,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -60.3869528016884, 'y': 200.762041951206}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -60.3869528016884, 'y': 200.762041951206}}"
   ]
   node
   [
@@ -6748,7 +6748,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -36.247710535874, 'y': 169.84241576011}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -36.247710535874, 'y': 169.84241576011}}"
   ]
   node
   [
@@ -6761,7 +6761,7 @@ graph
     DonationAmount 76.48
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 418.495686297282, 'y': -20.2859174663474}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 418.495686297282, 'y': -20.2859174663474}}"
   ]
   node
   [
@@ -6774,7 +6774,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 87.1216199626827, 'y': 48.8986580315846}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 87.1216199626827, 'y': 48.8986580315846}}"
   ]
   node
   [
@@ -6787,7 +6787,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 119.958841192, 'y': 228.662013221196}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 119.958841192, 'y': 228.662013221196}}"
   ]
   node
   [
@@ -6800,7 +6800,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.01367969729119 , 'pos': {'x': 140.710624383804, 'y': 248.923796189471}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 140.710624383804, 'y': 248.923796189471}}"
   ]
   node
   [
@@ -6813,7 +6813,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 27.2930761361494, 'y': 307.959385454229}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 27.2930761361494, 'y': 307.959385454229}}"
   ]
   node
   [
@@ -6826,7 +6826,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25863728272408 , 'pos': {'x': -116.343586704046, 'y': 304.429285624211}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -116.343586704046, 'y': 304.429285624211}}"
   ]
   node
   [
@@ -6839,7 +6839,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 419.221711504093, 'y': -37.5934411528908}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 419.221711504093, 'y': -37.5934411528908}}"
   ]
   node
   [
@@ -6852,7 +6852,7 @@ graph
     DonationAmount 10
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -333.108081509369, 'y': 447.329688889393}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -333.108081509369, 'y': 447.329688889393}}"
   ]
   node
   [
@@ -6865,7 +6865,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -311.326499514565, 'y': 463.484789911649}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -311.326499514565, 'y': 463.484789911649}}"
   ]
   node
   [
@@ -6878,7 +6878,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -502.814895710966, 'y': 119.218437968812}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -502.814895710966, 'y': 119.218437968812}}"
   ]
   node
   [
@@ -6891,7 +6891,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 7.80155759493333, 'y': -157.38559616638}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 7.80155759493333, 'y': -157.38559616638}}"
   ]
   node
   [
@@ -6904,7 +6904,7 @@ graph
     DonationAmount 0
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 130.2451334568, 'y': -250.850103967103}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 130.2451334568, 'y': -250.850103967103}}"
   ]
   node
   [
@@ -6917,7 +6917,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -475.056962154012, 'y': 207.46726901418}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -475.056962154012, 'y': 207.46726901418}}"
   ]
   node
   [
@@ -6930,7 +6930,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -496.484946870761, 'y': -435.193988385883}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -496.484946870761, 'y': -435.193988385883}}"
   ]
   node
   [
@@ -6943,7 +6943,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -596.367587850486, 'y': 100.862308563484}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -596.367587850486, 'y': 100.862308563484}}"
   ]
   node
   [
@@ -6956,7 +6956,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -61.2377355030775, 'y': -281.14940163418}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -61.2377355030775, 'y': -281.14940163418}}"
   ]
   node
   [
@@ -6969,7 +6969,7 @@ graph
     DonationAmount 639.09
     FriendsDonationAmount NaN
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25863728272408 , 'pos': {'x': -131.335178919078, 'y': 295.192060716384}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'position': {'x': -131.335178919078, 'y': 295.192060716384}}"
   ]
   node
   [
@@ -6982,7 +6982,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -85.5238501282066, 'y': 55.8135566644211}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -85.5238501282066, 'y': 55.8135566644211}}"
   ]
   node
   [
@@ -6995,7 +6995,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 64.4099575733112, 'y': 399.318824680214}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 64.4099575733112, 'y': 399.318824680214}}"
   ]
   node
   [
@@ -7008,7 +7008,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -22.2032915311227, 'y': -39.6488893071687}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -22.2032915311227, 'y': -39.6488893071687}}"
   ]
   node
   [
@@ -7021,7 +7021,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount 500
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -532.232763644961, 'y': 47.6733545988642}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.88181358930258 , 'position': {'x': -532.232763644961, 'y': 47.6733545988642}}"
   ]
   node
   [
@@ -7034,7 +7034,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -39.7975528757095, 'y': 465.13678865142}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -39.7975528757095, 'y': 465.13678865142}}"
   ]
   node
   [
@@ -7047,7 +7047,7 @@ graph
     DonationAmount 500
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -536.488897758318, 'y': 69.3338084005237}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -536.488897758318, 'y': 69.3338084005237}}"
   ]
   node
   [
@@ -7060,7 +7060,7 @@ graph
     DonationAmount 78750
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 197.058856486143, 'y': -156.192952791627}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 197.058856486143, 'y': -156.192952791627}}"
   ]
   node
   [
@@ -7073,7 +7073,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 77.1346571459448, 'y': -39.7556530415947}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 77.1346571459448, 'y': -39.7556530415947}}"
   ]
   node
   [
@@ -7086,7 +7086,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 294.806385832043, 'y': 21.3214761010033}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 294.806385832043, 'y': 21.3214761010033}}"
   ]
   node
   [
@@ -7099,7 +7099,7 @@ graph
     DonationAmount 200
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.25875697253658 , 'pos': {'x': -136.927184906996, 'y': -58.652325396162}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -136.927184906996, 'y': -58.652325396162}}"
   ]
   node
   [
@@ -7112,7 +7112,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -30.8613842854748, 'y': 116.777680169672}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -30.8613842854748, 'y': 116.777680169672}}"
   ]
   node
   [
@@ -7125,7 +7125,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -65.2819191467723, 'y': 143.394862172691}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -65.2819191467723, 'y': 143.394862172691}}"
   ]
   node
   [
@@ -7138,7 +7138,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -29.7910865481112, 'y': 85.2751649323422}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -29.7910865481112, 'y': 85.2751649323422}}"
   ]
   node
   [
@@ -7151,7 +7151,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -324.108464562401, 'y': -472.765397890193}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -324.108464562401, 'y': -472.765397890193}}"
   ]
   node
   [
@@ -7164,7 +7164,7 @@ graph
     DonationAmount 6550
     FriendsDonationAmount 255
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -87.2792910586569, 'y': -251.227450458968}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 3.56957290523257 , 'position': {'x': -87.2792910586569, 'y': -251.227450458968}}"
   ]
   node
   [
@@ -7177,7 +7177,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 26.9136254721932, 'y': 264.023116198722}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 26.9136254721932, 'y': 264.023116198722}}"
   ]
   node
   [
@@ -7190,7 +7190,7 @@ graph
     DonationAmount 450
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -186.997905585039, 'y': -105.138297807652}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -186.997905585039, 'y': -105.138297807652}}"
   ]
   node
   [
@@ -7203,7 +7203,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -40.5258265897461, 'y': -365.038621241431}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -40.5258265897461, 'y': -365.038621241431}}"
   ]
   node
   [
@@ -7216,7 +7216,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -174.553597866514, 'y': 144.5484337658}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -174.553597866514, 'y': 144.5484337658}}"
   ]
   node
   [
@@ -7229,7 +7229,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -197.60031666602, 'y': -24.7446154235213}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -197.60031666602, 'y': -24.7446154235213}}"
   ]
   node
   [
@@ -7242,7 +7242,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 89.0374843846139, 'y': 263.582509865712}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 89.0374843846139, 'y': 263.582509865712}}"
   ]
   node
   [
@@ -7255,7 +7255,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 24.0607435758753, 'y': 32.4872748263455}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 24.0607435758753, 'y': 32.4872748263455}}"
   ]
   node
   [
@@ -7268,7 +7268,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 2.40654018043396 , 'pos': {'x': -201.655166951466, 'y': -136.668116726414}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -201.655166951466, 'y': -136.668116726414}}"
   ]
   node
   [
@@ -7281,7 +7281,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 98.0587606581885, 'y': 15.9791179161332}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 98.0587606581885, 'y': 15.9791179161332}}"
   ]
   node
   [
@@ -7294,7 +7294,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 77.8047550359475, 'y': 92.9896217057321}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 77.8047550359475, 'y': 92.9896217057321}}"
   ]
   node
   [
@@ -7307,7 +7307,7 @@ graph
     DonationAmount 200
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 300.266725914997, 'y': 390.668442175191}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 300.266725914997, 'y': 390.668442175191}}"
   ]
   node
   [
@@ -7320,7 +7320,7 @@ graph
     DonationAmount 56
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.30102999566398 , 'pos': {'x': -16.7802794325994, 'y': 42.0193427761726}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': -16.7802794325994, 'y': 42.0193427761726}}"
   ]
   node
   [
@@ -7333,7 +7333,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -106.895566630478, 'y': -31.2486613221134}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -106.895566630478, 'y': -31.2486613221134}}"
   ]
   node
   [
@@ -7346,7 +7346,7 @@ graph
     DonationAmount 2625
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.49415459401844 , 'pos': {'x': 163.625734183565, 'y': -72.4958300262476}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': 163.625734183565, 'y': -72.4958300262476}}"
   ]
   node
   [
@@ -7359,7 +7359,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -368.13226689847, 'y': 417.221114731541}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -368.13226689847, 'y': 417.221114731541}}"
   ]
   node
   [
@@ -7372,7 +7372,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.17609125905568 , 'pos': {'x': 142.809897651778, 'y': 222.479870874795}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 142.809897651778, 'y': 222.479870874795}}"
   ]
   node
   [
@@ -7385,7 +7385,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 195.696846212166, 'y': 316.599884235242}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 195.696846212166, 'y': 316.599884235242}}"
   ]
   node
   [
@@ -7398,7 +7398,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 175.949332320565, 'y': -496.70484837034}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 175.949332320565, 'y': -496.70484837034}}"
   ]
   node
   [
@@ -7411,7 +7411,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 132.630260382291, 'y': -528.531499407736}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 132.630260382291, 'y': -528.531499407736}}"
   ]
   node
   [
@@ -7424,7 +7424,7 @@ graph
     DonationAmount 1500
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 248.537362923794, 'y': -284.107987895831}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 248.537362923794, 'y': -284.107987895831}}"
   ]
   node
   [
@@ -7437,7 +7437,7 @@ graph
     DonationAmount 7000
     FriendsDonationAmount 3876.24
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 164.402040307268, 'y': -170.300092374004}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.83151001457794 , 'position': {'x': 164.402040307268, 'y': -170.300092374004}}"
   ]
   node
   [
@@ -7450,7 +7450,7 @@ graph
     DonationAmount 2000
     FriendsDonationAmount 1500
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 319.411023072377, 'y': -336.661873449627}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.39125775258979 , 'position': {'x': 319.411023072377, 'y': -336.661873449627}}"
   ]
   node
   [
@@ -7463,7 +7463,7 @@ graph
     DonationAmount 840
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.5884106588454 , 'pos': {'x': -153.844979386339, 'y': 50.096571439189}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -153.844979386339, 'y': 50.096571439189}}"
   ]
   node
   [
@@ -7476,7 +7476,7 @@ graph
     DonationAmount 6000
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -160.839811135333, 'y': -257.326430496261}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -160.839811135333, 'y': -257.326430496261}}"
   ]
   node
   [
@@ -7489,7 +7489,7 @@ graph
     DonationAmount 25
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 129.25920260151, 'y': 387.883682318826}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 129.25920260151, 'y': 387.883682318826}}"
   ]
   node
   [
@@ -7502,7 +7502,7 @@ graph
     DonationAmount 100
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 294.442066927989, 'y': 260.882243114798}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 294.442066927989, 'y': 260.882243114798}}"
   ]
   node
   [
@@ -7515,7 +7515,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount 25
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 115.45671353059, 'y': 471.310474891944}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.49264441900011 , 'position': {'x': 115.45671353059, 'y': 471.310474891944}}"
   ]
   node
   [
@@ -7528,7 +7528,7 @@ graph
     DonationAmount 3000
     FriendsDonationAmount 100
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 365.840251327983, 'y': 305.964600195838}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.13549137980253 , 'position': {'x': 365.840251327983, 'y': 305.964600195838}}"
   ]
   node
   [
@@ -7541,7 +7541,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 293.809482878922, 'y': -571.955256316963}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 293.809482878922, 'y': -571.955256316963}}"
   ]
   node
   [
@@ -7554,7 +7554,7 @@ graph
     DonationAmount 255
     FriendsDonationAmount 10320
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 267.76142102834, 'y': -214.401081865204}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.28558919742689 , 'position': {'x': 267.76142102834, 'y': -214.401081865204}}"
   ]
   node
   [
@@ -7567,7 +7567,7 @@ graph
     DonationAmount 255
     FriendsDonationAmount 255
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 342.45578189036, 'y': -274.236866866408}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.56957290523257 , 'position': {'x': 342.45578189036, 'y': -274.236866866408}}"
   ]
   node
   [
@@ -7580,7 +7580,7 @@ graph
     DonationAmount 3000
     FriendsDonationAmount 181400
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 300.960011552495, 'y': -104.871721970886}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61488729338273 , 'position': {'x': 300.960011552495, 'y': -104.871721970886}}"
   ]
   node
   [
@@ -7593,7 +7593,7 @@ graph
     DonationAmount 258
     FriendsDonationAmount 12000
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1.39794000867204 , 'pos': {'x': 491.244552604861, 'y': -236.330824671173}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 5.35552819379342 , 'position': {'x': 491.244552604861, 'y': -236.330824671173}}"
   ]
   node
   [
@@ -7606,7 +7606,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.40654018043396 , 'pos': {'x': 329.318382112291, 'y': -539.35772710366}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 329.318382112291, 'y': -539.35772710366}}"
   ]
   node
   [
@@ -7619,7 +7619,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.82167725865437 , 'pos': {'x': -491.223350569768, 'y': 258.641069977779}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -491.223350569768, 'y': 258.641069977779}}"
   ]
   node
   [
@@ -7632,7 +7632,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -413.064456029484, 'y': -527.218144469782}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -413.064456029484, 'y': -527.218144469782}}"
   ]
   node
   [
@@ -7645,7 +7645,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.41912930774198 , 'pos': {'x': -371.103179671207, 'y': -412.601927323591}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -371.103179671207, 'y': -412.601927323591}}"
   ]
   node
   [
@@ -7658,7 +7658,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.30102999566398 , 'pos': {'x': -500.843720883202, 'y': 75.1126170681522}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -500.843720883202, 'y': 75.1126170681522}}"
   ]
   node
   [
@@ -7671,7 +7671,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 246.527268565871, 'y': -619.247255176311}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 246.527268565871, 'y': -619.247255176311}}"
   ]
   node
   [
@@ -7684,7 +7684,7 @@ graph
     DonationAmount 100
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.07243372596839 , 'pos': {'x': -166.986123690298, 'y': 501.251142229292}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -166.986123690298, 'y': 501.251142229292}}"
   ]
   node
   [
@@ -7697,7 +7697,7 @@ graph
     DonationAmount 1200
     FriendsDonationAmount 0
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 187.206930060483, 'y': -329.954712573067}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 187.206930060483, 'y': -329.954712573067}}"
   ]
   node
   [
@@ -7710,7 +7710,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount 184156.43
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 308.595360807214, 'y': -68.8414099047632}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.62188060540492 , 'position': {'x': 308.595360807214, 'y': -68.8414099047632}}"
   ]
   node
   [
@@ -7723,7 +7723,7 @@ graph
     DonationAmount 714.72
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.90848501887865 , 'pos': {'x': 516.625658091721, 'y': 23.8882853783085}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 516.625658091721, 'y': 23.8882853783085}}"
   ]
   node
   [
@@ -7736,7 +7736,7 @@ graph
     DonationAmount 500
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 541.769129184285, 'y': 1.1179391733119}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 541.769129184285, 'y': 1.1179391733119}}"
   ]
   node
   [
@@ -7749,7 +7749,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -396.065649664926, 'y': -448.924669405588}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -396.065649664926, 'y': -448.924669405588}}"
   ]
   node
   [
@@ -7762,7 +7762,7 @@ graph
     DonationAmount 1530
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 456.3291093037, 'y': -30.4942266038077}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 456.3291093037, 'y': -30.4942266038077}}"
   ]
   node
   [
@@ -7775,7 +7775,7 @@ graph
     DonationAmount 2500
     FriendsDonationAmount 96750
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 422.872209702543, 'y': -110.927802222703}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.32340733851056 , 'position': {'x': 422.872209702543, 'y': -110.927802222703}}"
   ]
   node
   [
@@ -7788,7 +7788,7 @@ graph
     DonationAmount 180
     FriendsDonationAmount 96750
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 415.921797476083, 'y': -125.098871585192}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.32340733851056 , 'position': {'x': 415.921797476083, 'y': -125.098871585192}}"
   ]
   node
   [
@@ -7801,7 +7801,7 @@ graph
     DonationAmount 2250
     FriendsDonationAmount 79950
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 295.801076232461, 'y': -219.62771376433}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.23496328766315 , 'position': {'x': 295.801076232461, 'y': -219.62771376433}}"
   ]
   node
   [
@@ -7814,7 +7814,7 @@ graph
     DonationAmount 450
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -423.432724290147, 'y': 366.304351702552}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -423.432724290147, 'y': 366.304351702552}}"
   ]
   node
   [
@@ -7827,7 +7827,7 @@ graph
     DonationAmount 200
     FriendsDonationAmount 65.55
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 287.491523237531, 'y': 9.9351193643082}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.93963766657419 , 'position': {'x': 287.491523237531, 'y': 9.9351193643082}}"
   ]
   node
   [
@@ -7840,7 +7840,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 426.015960259717, 'y': -497.329059998872}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 426.015960259717, 'y': -497.329059998872}}"
   ]
   node
   [
@@ -7853,7 +7853,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 117.580714515329, 'y': -77.2770280231716}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 117.580714515329, 'y': -77.2770280231716}}"
   ]
   node
   [
@@ -7866,7 +7866,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.71667097556014 , 'pos': {'x': 394.72002770174, 'y': 187.245557896546}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 394.72002770174, 'y': 187.245557896546}}"
   ]
   node
   [
@@ -7879,7 +7879,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -197.214609702239, 'y': -161.006057376852}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -197.214609702239, 'y': -161.006057376852}}"
   ]
   node
   [
@@ -7892,7 +7892,7 @@ graph
     DonationAmount 85
     FriendsDonationAmount 6020
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 371.718625503598, 'y': 3.10246192384998}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 5.03564786310649 , 'position': {'x': 371.718625503598, 'y': 3.10246192384998}}"
   ]
   node
   [
@@ -7905,7 +7905,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -108.894498109454, 'y': 164.341263361165}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -108.894498109454, 'y': 164.341263361165}}"
   ]
   node
   [
@@ -7918,7 +7918,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'pos': {'x': -248.231147781383, 'y': 36.8523084814214}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -248.231147781383, 'y': 36.8523084814214}}"
   ]
   node
   [
@@ -7931,7 +7931,7 @@ graph
     DonationAmount 170
     FriendsDonationAmount NaN
     AffiliationType "Associate Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 406.912060448724, 'y': -231.766232682282}}"
+    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'position': {'x': 406.912060448724, 'y': -231.766232682282}}"
   ]
   node
   [
@@ -7944,7 +7944,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -127.496953727018, 'y': 129.748059511547}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -127.496953727018, 'y': 129.748059511547}}"
   ]
   node
   [
@@ -7957,7 +7957,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -40.6494572699836, 'y': 63.4444895871777}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -40.6494572699836, 'y': 63.4444895871777}}"
   ]
   node
   [
@@ -7970,7 +7970,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -21.6830262059368, 'y': 5.84599879760732}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -21.6830262059368, 'y': 5.84599879760732}}"
   ]
   node
   [
@@ -7983,7 +7983,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -73.4114006598832, 'y': 89.2130259234298}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -73.4114006598832, 'y': 89.2130259234298}}"
   ]
   node
   [
@@ -7996,7 +7996,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -112.483839013375, 'y': 154.591784876237}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -112.483839013375, 'y': 154.591784876237}}"
   ]
   node
   [
@@ -8009,7 +8009,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -31.6486109081682, 'y': 276.029835765092}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -31.6486109081682, 'y': 276.029835765092}}"
   ]
   node
   [
@@ -8022,7 +8022,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -198.303479787843, 'y': 268.977633206693}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -198.303479787843, 'y': 268.977633206693}}"
   ]
   node
   [
@@ -8035,7 +8035,7 @@ graph
     DonationAmount 2
     FriendsDonationAmount NaN
     AffiliationType "Staff"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 32.0270416640299, 'y': 79.8820530581549}}"
+    viz "{'color': {'r': 0, 'g': 255, 'b': 255} , 'size': 1 , 'position': {'x': 32.0270416640299, 'y': 79.8820530581549}}"
   ]
   node
   [
@@ -8048,7 +8048,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -74.8349248217204, 'y': 53.6204168787872}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -74.8349248217204, 'y': 53.6204168787872}}"
   ]
   node
   [
@@ -8061,7 +8061,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -457.054467485449, 'y': 337.212684695658}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -457.054467485449, 'y': 337.212684695658}}"
   ]
   node
   [
@@ -8074,7 +8074,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 106.329050876816, 'y': 73.7980579827064}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 106.329050876816, 'y': 73.7980579827064}}"
   ]
   node
   [
@@ -8087,7 +8087,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 520.415946139564, 'y': -299.646002948616}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 520.415946139564, 'y': -299.646002948616}}"
   ]
   node
   [
@@ -8100,7 +8100,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -84.2945011083702, 'y': 227.556997164333}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -84.2945011083702, 'y': 227.556997164333}}"
   ]
   node
   [
@@ -8113,7 +8113,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 581.061877913469, 'y': -211.565583473407}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 581.061877913469, 'y': -211.565583473407}}"
   ]
   node
   [
@@ -8126,7 +8126,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -268.938704878892, 'y': 30.6268334927384}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -268.938704878892, 'y': 30.6268334927384}}"
   ]
   node
   [
@@ -8139,7 +8139,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -128.377901299356, 'y': -126.156725038287}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -128.377901299356, 'y': -126.156725038287}}"
   ]
   node
   [
@@ -8152,7 +8152,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 143.24667730619, 'y': -33.6776543291163}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 143.24667730619, 'y': -33.6776543291163}}"
   ]
   node
   [
@@ -8165,7 +8165,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -188.966998414381, 'y': -50.9871706732274}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -188.966998414381, 'y': -50.9871706732274}}"
   ]
   node
   [
@@ -8178,7 +8178,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -158.726265102589, 'y': 252.750065441273}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -158.726265102589, 'y': 252.750065441273}}"
   ]
   node
   [
@@ -8191,7 +8191,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 232.902949901981, 'y': 34.1196019785985}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 232.902949901981, 'y': 34.1196019785985}}"
   ]
   node
   [
@@ -8204,7 +8204,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 473.978411183838, 'y': 82.1915884234696}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 473.978411183838, 'y': 82.1915884234696}}"
   ]
   node
   [
@@ -8217,7 +8217,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -153.951205479418, 'y': 22.7710123490389}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -153.951205479418, 'y': 22.7710123490389}}"
   ]
   node
   [
@@ -8230,7 +8230,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 87.5907600003908, 'y': -279.145425538876}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 87.5907600003908, 'y': -279.145425538876}}"
   ]
   node
   [
@@ -8243,7 +8243,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.98565097369095 , 'pos': {'x': 332.282880197786, 'y': 226.185317577879}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 332.282880197786, 'y': 226.185317577879}}"
   ]
   node
   [
@@ -8256,7 +8256,7 @@ graph
     DonationAmount 450
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.00281377922467 , 'pos': {'x': 325.619974866203, 'y': 241.491881414307}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 325.619974866203, 'y': 241.491881414307}}"
   ]
   node
   [
@@ -8269,7 +8269,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 242.876963044057, 'y': 451.552714477069}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 242.876963044057, 'y': 451.552714477069}}"
   ]
   node
   [
@@ -8282,7 +8282,7 @@ graph
     DonationAmount 9690
     FriendsDonationAmount NaN
     AffiliationType "Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 337.904294220657, 'y': 35.8087162422302}}"
+    viz "{'color': {'r': 128, 'g': 255, 'b': 0} , 'size': 1 , 'position': {'x': 337.904294220657, 'y': 35.8087162422302}}"
   ]
   node
   [
@@ -8295,7 +8295,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -608.69489886642, 'y': 24.0971403454055}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -608.69489886642, 'y': 24.0971403454055}}"
   ]
   node
   [
@@ -8308,7 +8308,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 505.364008142083, 'y': 61.1532860681879}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 505.364008142083, 'y': 61.1532860681879}}"
   ]
   node
   [
@@ -8321,7 +8321,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -298.279862626178, 'y': 105.195368198971}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -298.279862626178, 'y': 105.195368198971}}"
   ]
   node
   [
@@ -8334,7 +8334,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -506.820628761288, 'y': -227.081010363423}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -506.820628761288, 'y': -227.081010363423}}"
   ]
   node
   [
@@ -8347,7 +8347,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -65.8427675716203, 'y': -96.7573695799667}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -65.8427675716203, 'y': -96.7573695799667}}"
   ]
   node
   [
@@ -8360,7 +8360,7 @@ graph
     DonationAmount 75
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -244.152333406315, 'y': 246.371506762863}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -244.152333406315, 'y': 246.371506762863}}"
   ]
   node
   [
@@ -8373,7 +8373,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -194.497293732712, 'y': 31.5032404991014}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -194.497293732712, 'y': 31.5032404991014}}"
   ]
   node
   [
@@ -8386,7 +8386,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 203.238956690003, 'y': 468.078086758456}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 203.238956690003, 'y': 468.078086758456}}"
   ]
   node
   [
@@ -8399,7 +8399,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 222.748816622883, 'y': 92.3742915800964}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 222.748816622883, 'y': 92.3742915800964}}"
   ]
   node
   [
@@ -8412,7 +8412,7 @@ graph
     DonationAmount 990
     FriendsDonationAmount 3585
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 122.982222139699, 'y': -30.7375837654383}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.79529048039485 , 'position': {'x': 122.982222139699, 'y': -30.7375837654383}}"
   ]
   node
   [
@@ -8425,7 +8425,7 @@ graph
     DonationAmount 25
     FriendsDonationAmount 181400
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 303.288952232201, 'y': -120.429812610505}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61488729338273 , 'position': {'x': 303.288952232201, 'y': -120.429812610505}}"
   ]
   node
   [
@@ -8438,7 +8438,7 @@ graph
     DonationAmount 150
     FriendsDonationAmount 181400
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 287.366192150865, 'y': -118.322416385477}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61488729338273 , 'position': {'x': 287.366192150865, 'y': -118.322416385477}}"
   ]
   node
   [
@@ -8451,7 +8451,7 @@ graph
     DonationAmount 2756.43
     FriendsDonationAmount 181450
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 316.955011925798, 'y': -57.2290394005296}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.61501509166416 , 'position': {'x': 316.955011925798, 'y': -57.2290394005296}}"
   ]
   node
   [
@@ -8464,7 +8464,7 @@ graph
     DonationAmount 50
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 491.690542959566, 'y': -394.268045555309}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 491.690542959566, 'y': -394.268045555309}}"
   ]
   node
   [
@@ -8477,7 +8477,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 2.38021124171161 , 'pos': {'x': 458.457283353678, 'y': -423.666720634268}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 458.457283353678, 'y': -423.666720634268}}"
   ]
   node
   [
@@ -8490,7 +8490,7 @@ graph
     DonationAmount 125.64
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 180.575151471945, 'y': 290.949016777792}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 180.575151471945, 'y': 290.949016777792}}"
   ]
   node
   [
@@ -8503,7 +8503,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.82167725865437 , 'pos': {'x': -82.9345657112921, 'y': -551.403073597821}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -82.9345657112921, 'y': -551.403073597821}}"
   ]
   node
   [
@@ -8516,7 +8516,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -73.0209842817911, 'y': -582.888461501179}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -73.0209842817911, 'y': -582.888461501179}}"
   ]
   node
   [
@@ -8529,7 +8529,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -64.9730229219748, 'y': -517.370219420526}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -64.9730229219748, 'y': -517.370219420526}}"
   ]
   node
   [
@@ -8542,7 +8542,7 @@ graph
     DonationAmount 40
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -223.406057518043, 'y': -551.673832530342}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -223.406057518043, 'y': -551.673832530342}}"
   ]
   node
   [
@@ -8555,7 +8555,7 @@ graph
     DonationAmount 20
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -174.371725920909, 'y': -252.313596930979}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -174.371725920909, 'y': -252.313596930979}}"
   ]
   node
   [
@@ -8568,7 +8568,7 @@ graph
     DonationAmount 61.18
     FriendsDonationAmount NaN
     AffiliationType "Associate Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -179.15542160547, 'y': -237.481848419155}}"
+    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'position': {'x': -179.15542160547, 'y': -237.481848419155}}"
   ]
   node
   [
@@ -8581,7 +8581,7 @@ graph
     DonationAmount 555
     FriendsDonationAmount NaN
     AffiliationType "Associate Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -153.005848806808, 'y': -269.92156053325}}"
+    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'position': {'x': -153.005848806808, 'y': -269.92156053325}}"
   ]
   node
   [
@@ -8594,7 +8594,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -2.89591764909231, 'y': -230.777642740051}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -2.89591764909231, 'y': -230.777642740051}}"
   ]
   node
   [
@@ -8607,7 +8607,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -25.0527931822242, 'y': -225.251241969237}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -25.0527931822242, 'y': -225.251241969237}}"
   ]
   node
   [
@@ -8620,7 +8620,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 7.05959703582645, 'y': 405.914487269223}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 7.05959703582645, 'y': 405.914487269223}}"
   ]
   node
   [
@@ -8633,7 +8633,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "Associate Board"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.98565097369095 , 'pos': {'x': -23.0782110683314, 'y': -263.327845341311}}"
+    viz "{'color': {'r': 128, 'g': 0, 'b': 255} , 'size': 1 , 'position': {'x': -23.0782110683314, 'y': -263.327845341311}}"
   ]
   node
   [
@@ -8646,7 +8646,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -256.662015561663, 'y': -43.2041131850189}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -256.662015561663, 'y': -43.2041131850189}}"
   ]
   node
   [
@@ -8659,7 +8659,7 @@ graph
     DonationAmount 2413.89
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -119.953810378552, 'y': -356.800241941992}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -119.953810378552, 'y': -356.800241941992}}"
   ]
   node
   [
@@ -8672,7 +8672,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -278.849428015188, 'y': -192.093450091277}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -278.849428015188, 'y': -192.093450091277}}"
   ]
   node
   [
@@ -8685,7 +8685,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -293.957607041718, 'y': -162.97512697338}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -293.957607041718, 'y': -162.97512697338}}"
   ]
   node
   [
@@ -8698,7 +8698,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 102.136424707987, 'y': -87.8129331918266}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 102.136424707987, 'y': -87.8129331918266}}"
   ]
   node
   [
@@ -8711,7 +8711,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.8819549713396 , 'pos': {'x': 71.8617052313772, 'y': 107.167198710881}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 71.8617052313772, 'y': 107.167198710881}}"
   ]
   node
   [
@@ -8724,7 +8724,7 @@ graph
     DonationAmount 20
     FriendsDonationAmount 1500
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 310.503095467937, 'y': -350.916969925834}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.39125775258979 , 'position': {'x': 310.503095467937, 'y': -350.916969925834}}"
   ]
   node
   [
@@ -8737,7 +8737,7 @@ graph
     DonationAmount 71.01
     FriendsDonationAmount 1500
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 295.620959409611, 'y': -358.425093065262}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.39125775258979 , 'position': {'x': 295.620959409611, 'y': -358.425093065262}}"
   ]
   node
   [
@@ -8750,7 +8750,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -511.303930393558, 'y': 10.3619069757099}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -511.303930393558, 'y': 10.3619069757099}}"
   ]
   node
   [
@@ -8763,7 +8763,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -624.218782039724, 'y': -72.8635561474678}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -624.218782039724, 'y': -72.8635561474678}}"
   ]
   node
   [
@@ -8776,7 +8776,7 @@ graph
     DonationAmount 8000
     FriendsDonationAmount 0
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 156.68469559321, 'y': -336.595007354795}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 156.68469559321, 'y': -336.595007354795}}"
   ]
   node
   [
@@ -8789,7 +8789,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -583.537957377169, 'y': -89.2112541743362}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -583.537957377169, 'y': -89.2112541743362}}"
   ]
   node
   [
@@ -8802,7 +8802,7 @@ graph
     DonationAmount 150
     FriendsDonationAmount 96750
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 427.591818188991, 'y': -96.1360018546133}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 6.32340733851056 , 'position': {'x': 427.591818188991, 'y': -96.1360018546133}}"
   ]
   node
   [
@@ -8815,7 +8815,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 394.747608311731, 'y': -480.48643139179}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': 394.747608311731, 'y': -480.48643139179}}"
   ]
   node
   [
@@ -8828,7 +8828,7 @@ graph
     DonationAmount 1800
     FriendsDonationAmount 200
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -62.2789261103645, 'y': 321.355432800104}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 3.45691486020374 , 'position': {'x': -62.2789261103645, 'y': 321.355432800104}}"
   ]
   node
   [
@@ -8841,7 +8841,7 @@ graph
     DonationAmount NaN
     FriendsDonationAmount NaN
     AffiliationType "NA"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': -288.816278428461, 'y': -602.993125851093}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'position': {'x': -288.816278428461, 'y': -602.993125851093}}"
   ]
   node
   [
@@ -8854,7 +8854,7 @@ graph
     DonationAmount 43.7
     FriendsDonationAmount 2625
     AffiliationType "None"
-    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 1 , 'pos': {'x': 248.917544816861, 'y': -132.877802228863}}"
+    viz "{'color': {'r': 190, 'g': 190, 'b': 190} , 'size': 4.65076058155659 , 'position': {'x': 248.917544816861, 'y': -132.877802228863}}"
   ]
   edge
   [
