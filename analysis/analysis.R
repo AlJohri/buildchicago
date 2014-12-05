@@ -114,8 +114,8 @@ legend(1000, 200,
        personnel.colors[, type],
        col = personnel.colors[, color])
 
-                                        # Useful statistics
-                                        # -------------------------------------------------------------------
+## Useful statistics
+## -------------------------------------------------------------------
 fan.edgelist <- get.edgelist(fan.graph)
 edge.table <- data.table(
     rbind(fan.edgelist, cbind(fan.edgelist[,2], fan.edgelist[, 1])))
@@ -144,54 +144,79 @@ friend.data <- edge.table[, list(
 build.network <- merge(friend.data, merged[vertex.names], by = 'uid')
 . <- build.network[is.na(role), role := 'None']
 
-                                        # Write datasets to disk
+## Write datasets to disk
 write.csv(build.network, file = 'build_network.csv', row.names = FALSE)
-
-attr.names <- c('label',
-                'betweenness',
-                'fan_status',
-                'donor_status',
-                'donation_metric',
-                'donation_amount',
-                'friends_donation_metric',
-                'freinds_donation_amount',
-                'build_affiliation')
 
 attr.vals <- as.list(
     build.network[vertex.names, list(
-        name,
-        betweenness,
-        fan,
-        donor,
-        log10(total.donation.amount),
-        total.donation.amount,
-        log10(friends.total.donation.amount),
-        friends.total.donation.amount,
-        role)])
+        label = name,
+        Betweenness = betweenness,
+        IsFan = fan,
+        IsDonor = donor,
+        DonationAmount = total.donation.amount,
+        FriendsDonationAmount = friends.total.donation.amount,
+        AffiliationType = role)])
 
-Map(function(attr.name, attr.val)
-    fan.graph <<- set.vertex.attribute(
-        fan.graph, attr.name, value = attr.val),
-    attr.names, attr.vals)
+lapply(names(attr.vals),
+       function(attr.name)
+           fan.graph <<- set.vertex.attribute(
+               fan.graph, attr.name, value = attr.vals[[attr.name]]))
 
-size.vars <- c('donation_metric',
-               'betweenness',
-               'freinds_donation_amount')
+size.vars <- build.network[, list(
+    DonationAmount = log10(total.donation.amount),
+    Betweenness = log10(betweenness),
+    FriendsDonationAmount = log10(friends.total.donation.amount))]
 
-color.vars <- c('fan_status', 'build_affiliation')
+color.vars <- build.network[, list(
+    IsFan = fan,
+    AffiliationType = role)]
 
-outer(size.vars,
-      color.vars,
-      function(size.var, color.var){
-          tmp.graph <- set.vertex.attribute(
-              fan.graph, 'color', value =
-                 get.vertex.attribute(fan.graph, color.var))
-          set.vertex.attribute(
-              fan.graph, 'size', value =
-                  get.vertex.attribute(fan.graph, size.var))
-      })
+list.2.dictstr <- function(input){
+    kvstr <- function(k, v)
+        sprintf("'%s' : %s", k, v)
 
-write.graph(fan.graph)
+    element2str <- function(elname, el){
+        if(is.list(el))
+            kvstr(elname, list.2.dictstr(input))
+        if(is.numeric(el) | is.character(el))
+            kvstr(elname, el)
+        else
+            error();
+    }
+    paste(Map(element2str, names(input), input), sep = ',')
+}
+
+for(size.varname in names(size.vars)){
+    for(color.varname in names(color.vars)){
+        color.var <- color.vars[[color.varname]]
+        size.var <- size.vars[[size.varname]]
+        color.var[is.na(color.var)] <- 'None'
+        size.var[is.na(size.var)] <- 1
+
+        color.map <- data.table(
+            value = unique(color.var),
+            color = rainbow(length(unique(color.var))))
+        setkey(color.map, value)
+        color.map['None', color := 'gray']
+        rgb.colors <- col2rgb(color.map[color.var, color])
+
+        viz.args <- paste(
+            sprintf("{'color': {'r': %d, 'g': %d, 'b': %d}",
+                    rgb.colors[1,], rgb.colors[2,], rgb.colors[3,]),
+            sprintf(", 'size': %s", size.var),
+            sprintf(", 'pos': {'x': %s, 'y': %s}}",
+                    fan.layout[, 1],
+                    fan.layout[, 2]))
+
+        tmp.graph <- set.vertex.attribute(
+            fan.graph, 'viz', value = viz.args)
+        fname <- sprintf('%s-%s.%s', size.varname, color.varname, 'gml')
+        write.graph(tmp.graph, fname, format = 'gml')
+    }
+}
+
+
+
 
 #' Other Graphs
 #' ===================================================================
