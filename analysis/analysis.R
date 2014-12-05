@@ -130,10 +130,10 @@ friend.data <- edge.table[, list(
         role == 'Associate Board', na.rm = TRUE),
     staff.friend.count = sum(role == 'Staff', na.rm = TRUE),
     friends.num.donations.2013 = sum(num.donations.2013),
-    friends.num.donations.2014 = sum(num.donations.2014),
-    friends.total.num.donations = sum(total.num.donations),
-    friends.donation.amount.2013 = sum(donation.amount.2013),
-    friends.donation.amount.2014 = sum(donation.amount.2014),
+    friends.num.donations.2014 = sum(num.donations.2014, na.rm = TRUE),
+    friends.total.num.donations = sum(total.num.donations, na.rm = TRUE),
+    friends.donation.amount.2013 = sum(donation.amount.2013, na.rm = TRUE),
+    friends.donation.amount.2014 = sum(donation.amount.2014, na.rm = TRUE),
     friends.total.donation.amount = sum(total.donation.amount)),
                           list(uid = V1)]
 . <- merged[vertex.names, `:=`(
@@ -162,12 +162,12 @@ lapply(names(attr.vals),
            fan.graph <<- set.vertex.attribute(
                fan.graph, attr.name, value = attr.vals[[attr.name]]))
 
-size.vars <- build.network[, list(
+size.vars <- build.network[vertex.names, list(
     DonationAmount = log10(total.donation.amount),
     Betweenness = log10(betweenness),
     FriendsDonationAmount = log10(friends.total.donation.amount))]
 
-color.vars <- build.network[, list(
+color.vars <- build.network[vertex.names, list(
     IsFan = fan,
     AffiliationType = role)]
 
@@ -189,9 +189,12 @@ list.2.dictstr <- function(input){
 for(size.varname in names(size.vars)){
     for(color.varname in names(color.vars)){
         color.var <- color.vars[[color.varname]]
-        size.var <- size.vars[[size.varname]]
         color.var[is.na(color.var)] <- 'None'
-        size.var[is.na(size.var)] <- 1
+
+        size.var <- size.vars[[size.varname]]
+        size.var[!is.finite(size.var)] <- 0
+        size.var.norm <- (6 * (size.var - min(size.var))
+                          / max(size.var)) + 1
 
         color.map <- data.table(
             value = unique(color.var),
@@ -203,8 +206,8 @@ for(size.varname in names(size.vars)){
         viz.args <- paste(
             sprintf("{'color': {'r': %d, 'g': %d, 'b': %d}",
                     rgb.colors[1,], rgb.colors[2,], rgb.colors[3,]),
-            sprintf(", 'size': %s", size.var),
-            sprintf(", 'pos': {'x': %s, 'y': %s}}",
+            sprintf(", 'size': %s", size.var.norm),
+            sprintf(", 'position': {'x': %s, 'y': %s}}",
                     fan.layout[, 1],
                     fan.layout[, 2]))
 
@@ -214,9 +217,6 @@ for(size.varname in names(size.vars)){
         write.graph(tmp.graph, fname, format = 'gml')
     }
 }
-
-
-
 
 #' Other Graphs
 #' ===================================================================
